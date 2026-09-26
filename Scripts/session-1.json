@@ -1,0 +1,235 @@
+{
+  "session": 1,
+  "title": "Autism, Sensory and Ways of Thinking",
+  "segments": [
+    {
+      "id": "s01_sl01_a",
+      "slide": 1,
+      "kind": "narration",
+      "spoken_text": "Welcome to our Secondary Education Online professional learning series. Across four sessions, we'll explore Autistic experience and what it means for access, belonging and partnership in a secondary school.\n\nKeep the students you work with at the centre of the learning. We'll begin with how we understand their experience, then look at communication and the school day. We'll use that understanding to design a practical change and plan a conversation with the people who can help us refine it.\n\nThis is a recorded simulation of the workshop. I'll lead you through the slides, introduce the supplied films, and give you time to begin each activity. The pauses are brief. Whenever you want longer, pause the video and return when you're ready. If you're watching with a live online group, you're welcome to use its chat. Your own private notes work just as well. You don't need to come with all the answers. Curiosity is a good place to begin.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Secondary Education Online Session 1, slide 1; corresponding speaker notes and Facilitator Guide p. 8. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted. Series format adapted explicitly for recorded simulation; no producer or live room is claimed.",
+      "spoken_text_sha256": "4f77d6e5816891c09a4faf053494a318f3b4a7e24ae8234831a3f5b1dde7c943"
+    },
+    {
+      "id": "s01_sl02_a",
+      "slide": 2,
+      "kind": "narration",
+      "spoken_text": "I acknowledge the Traditional Custodians of the lands and waters from which we are joining this learning, and pay my respects to Elders past and present. I recognise the continuing connections of Aboriginal and Torres Strait Islander peoples to Country, culture and community. I extend that respect to Aboriginal and Torres Strait Islander people taking part today. If you know the Country you are on, you might take a moment to acknowledge it in your own way.",
+      "post_pause_seconds": 3,
+      "screen_cue": null,
+      "source_note": "Secondary Education Online Session 1, slide 2; corresponding speaker notes and Facilitator Guide p. 9. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted. Location-neutral acknowledgement. Supplied guide asks live presenters to prepare confirmed local Country names and follow organisational protocol; no specific Custodians or presenter location supplied.",
+      "spoken_text_sha256": "f78c39105e4b41601ada02d07f278c786706c4da278ae23a28103fb6cd967d97"
+    },
+    {
+      "id": "s01_sl03_a",
+      "slide": 3,
+      "kind": "narration",
+      "spoken_text": "First Nations people are advised that this workshop may contain images and voices of people who are no longer with us.",
+      "post_pause_seconds": 3,
+      "screen_cue": null,
+      "source_note": "Secondary Education Online Session 1, slide 3; corresponding speaker notes and Facilitator Guide p. 10. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted. Advisory read verbatim from supplied slide.",
+      "spoken_text_sha256": "3d8f2f4deacd160ecc682bdcdfb064169920cb4eb6517bb7959b056893a2ea26"
+    },
+    {
+      "id": "s01_sl04_a",
+      "slide": 4,
+      "kind": "narration",
+      "spoken_text": "Let's make this a workable space for learning. Cameras are optional when you join others online. Listening, writing a private note, speaking, using chat or a reaction, and choosing to pass are all valid ways to take part. You can move, stretch, look away from the screen, or step away and come back.\n\nThe original workshop includes some small breakout activities. In this recording, I'll offer quiet individual reflection as the starting point. If you're watching with colleagues, you can pause and talk together if you choose. You don't need a breakout room to complete the learning.\n\nWhen you refer to a student, use initials or a role such as a Year 9 student. Leave out names, school details and incidents that could identify someone. Keep personal reflections private. Any contribution to a live group's chat should be something you're comfortable sharing with that group.\n\nTake a moment to settle on one hope for these sessions. It can stay in your own notes.",
+      "post_pause_seconds": 3,
+      "screen_cue": null,
+      "source_note": "Secondary Education Online Session 1, slide 4; corresponding speaker notes and Facilitator Guide p. 11. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "22cde70f91ceaee599bd92ef70c1a594be31e2e29664a2543dd9325eb4c066eb"
+    },
+    {
+      "id": "s01_sl05_a",
+      "slide": 5,
+      "kind": "narration",
+      "spoken_text": "Open page four of your Participant Guide, Think about your students. Bring two or three students to mind, ideally students who are quite different from one another. They might differ in year level, communication, subjects they enjoy, or what a school day feels like for them.\n\nFor each student, note strengths, interests or moments of connection you want to keep visible. Then ask yourself: What am I here for? What would I like to understand better? A question is a useful starting point. You don't have to explain the student or solve anything yet.\n\nUse Student A, B and C, or initials that only mean something to you. This reflection stays private. We'll return to the same students through the four sessions, so keep these notes somewhere you can find them again. Pause here if you'd like a few minutes to write.",
+      "post_pause_seconds": 8,
+      "screen_cue": "Participant Guide p. 4. Pause to write privately.",
+      "source_note": "Secondary Education Online Session 1, slide 5; corresponding speaker notes and Facilitator Guide p. 12. Participant Guide p. 4. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "9616f47486b6390ababfa87cbb576acb045def63da2d4e0e0fbde45877cef366"
+    },
+    {
+      "id": "s01_sl05_b",
+      "slide": 5,
+      "kind": "narration",
+      "spoken_text": "As you come back, look at whether you've kept the whole person in view. Alongside a concern or a question, is there something they enjoy, know a great deal about, or do with real interest? If that part of your picture is thin, leave room to find out. These notes are a starting point for learning, and we can keep adding to them.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Secondary Education Online Session 1, slide 5; corresponding speaker notes and Facilitator Guide p. 12. Participant Guide p. 4. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "c155b142a5a1b12a34146d2b0eb0fdd84419ddf3bff761f775e802e842cc0963"
+    },
+    {
+      "id": "s01_sl06_a",
+      "slide": 6,
+      "kind": "narration",
+      "spoken_text": "We're going to listen to Autistic young people in their own words. Give the speakers your attention without trying to diagnose, compare them with a student, or pull out one lesson that stands for everyone. Each person's account belongs to them.\n\nAs you watch, notice what stays with you and what you would like to understand more deeply. We'll return to those questions after the film.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Secondary Education Online Session 1, slide 6; corresponding speaker notes and Facilitator Guide p. 13. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "b9e5730567b7d8c5933058ac2361a788f49a84eacbf4937dab7c23e7178de637"
+    },
+    {
+      "id": "s01_sl06_video",
+      "slide": 6,
+      "kind": "video",
+      "media_path": "s01-slide08-media1.mp4",
+      "source_note": "Original Secondary Education Online embedded film, Session 1 slide 6. SHA-256 04f5bbf13c7b61c72ce047d6549309e871fcb4992bfb2bba87bbe62d761b4834. Repeated relationship references deduplicated. Play once, in full, without presenter speech over the film."
+    },
+    {
+      "id": "s01_sl07_a",
+      "slide": 7,
+      "kind": "narration",
+      "spoken_text": "Take a quiet moment with what you've heard. On page four of your guide, underneath your student reflection, note what stayed with you. What did you notice in the speakers' own accounts? What would you like to understand more deeply?\n\nTry to keep the observation close to what someone actually said. We can be quick to fill in a person's experience from their expression or behaviour. Here, let their words lead. If you're with a live online group, you may share a word or a short phrase in the chat. Passing is welcome. Pause the video for more thinking time.",
+      "post_pause_seconds": 8,
+      "screen_cue": "Participant Guide p. 4. What stayed with you?",
+      "source_note": "Secondary Education Online Session 1, slide 7; corresponding speaker notes and Facilitator Guide p. 14. Participant Guide p. 4. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "405f4fd984d6d0054182e7c1960ad5125475126b6a0c6800be61ef02951e7a0d"
+    },
+    {
+      "id": "s01_sl07_b",
+      "slide": 7,
+      "kind": "narration",
+      "spoken_text": "Keep any questions that are still open. You don't need to settle on one shared interpretation of the film. We're building a broader picture, and individual accounts may show us different things. The sensory and thinking ideas that follow are ways to ask better questions. In Session Two, we'll connect them with communication and the school day.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Secondary Education Online Session 1, slide 7; corresponding speaker notes and Facilitator Guide p. 14. Participant Guide p. 4. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "219b7f5d583f12cc454b771c1b897abec9cf078de5f58e89d76d9c2fa11632b3"
+    },
+    {
+      "id": "s01_sl08_a",
+      "slide": 8,
+      "kind": "narration",
+      "spoken_text": "Our starting point is neurodiversity affirming. People experience and interact with the world differently. Different ways of knowing, doing, being and belonging deserve recognition. Difference does not make someone a lesser version of another person.\n\nThat means we include strengths, interests and joy alongside barriers and support needs. Recognising a student's strengths doesn't make a difficult day disappear. Someone can bring deep knowledge, care and creativity and still need substantial support.\n\nThink of the students on your page. What becomes visible when you include what they enjoy and how they connect? How might that change the language you use about them? Instead of a label such as difficult, we can describe what the environment asks, what the student communicates, and what support might help. We can be specific about a difficulty while respecting the person experiencing it.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Secondary Education Online Session 1, slide 8; corresponding speaker notes and Facilitator Guide p. 15. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "45e20b5a25ff3c978ab949c7295febae446090b15412f5c2f72ed20256ce4739"
+    },
+    {
+      "id": "s01_sl09_a",
+      "slide": 9,
+      "kind": "narration",
+      "spoken_text": "The social model gives us an environment-first lens. We look for barriers in places, tasks, routines and expectations, and ask what could change around the student.\n\nPicture a crowded corridor between periods. There may be noise, unpredictable movement, people brushing past, and very little time to reach the next room. Before deciding that the student needs to cope better, we can ask what options exist. Could information about the route be clearer? Is there a less crowded route or a different transition arrangement worth discussing?\n\nThose are possibilities to explore with the student. We can't know from the corridor alone which one would help. Include their communication and experience, try an appropriate change, and review whether participation becomes more workable. Changing an environment won't remove every difficulty. It gives us something practical and important to examine.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Secondary Education Online Session 1, slide 9; corresponding speaker notes and Facilitator Guide p. 16. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "6f73f1660d593a9eab827b30aabca6805a2da58585f238a2fee58e6b3faf2201"
+    },
+    {
+      "id": "s01_sl10_a",
+      "slide": 10,
+      "kind": "narration",
+      "spoken_text": "Autism can be understood as difference and dynamic disability. Access and support needs can change with the task, the environment, relationships and the capacity available at that moment.\n\nIn secondary school, that may happen within a single day. A student might participate comfortably in one subject, then find the next period much harder. The room, teacher, instructions, pace and previous demands may all be different. Managing something yesterday doesn't tell us what support is needed today.\n\nSo we keep our assumptions flexible. We ask what has changed, what the task requires, and what the student can tell us. Strengths and substantial support needs can both belong in the picture. Support should respond to the person and the situation, rather than to a fixed idea of what that student ought to manage.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Secondary Education Online Session 1, slide 10; corresponding speaker notes and Facilitator Guide p. 17. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "cffbf4a4f3f7ca92dd406c35a9d837b107e47b70623606d8e8d003dca5c0d7f4"
+    },
+    {
+      "id": "s01_sl11_a",
+      "slide": 11,
+      "kind": "narration",
+      "spoken_text": "Many of us learnt about five senses: touch, vision, taste, hearing and smell. This workshop extends that picture to eight.\n\nProprioception is our sense of where the body is in space. It involves information from our muscles and joints. Think about knowing where your feet are as you move through a busy room, or how much pressure to use when carrying equipment.\n\nThe vestibular sense concerns balance and movement. Moving on stairs, changing direction in a game, rocking in a chair, or being still after movement can involve this sense. Different students may seek or avoid different kinds of movement.\n\nInteroception is our sense of signals from inside the body. We'll return to it shortly, when we consider hunger, thirst and feelings.\n\nAcross a school day, senses work together. A science laboratory, the canteen, a music room and the bus bay offer quite different experiences. Keep the question open: what is this place like for this student, at this time?",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Secondary Education Online Session 1, slide 11; corresponding speaker notes and Facilitator Guide p. 18. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "c46403c139cd1e069f006f93d6a28b01ec73c81e8ee05f488c1f2a571ac4d699"
+    },
+    {
+      "id": "s01_sl12_a",
+      "slide": 12,
+      "kind": "narration",
+      "spoken_text": "Sensory experience includes pleasure, connection and regulation, as well as discomfort or overload. We need both parts in view.\n\nNotice sensory joy. It might be a sound, a texture, a movement or another experience the student values. Stimming can also be part of pleasure, regulation and authentic expression. Harmless stimming does not need to be discouraged simply because it looks different.\n\nThink about where you see enjoyment in the students you have in mind. If you aren't sure what an action means for someone, that's a reason to ask in a way they can use. Avoid treating difference as disruption by default. What would the student want other people to understand about that experience?",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Secondary Education Online Session 1, slide 12; corresponding speaker notes and Facilitator Guide p. 19. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "d4eeb2f13669874dd88a6509665221d18f321fc99defc3814a3e8b23dccb5840"
+    },
+    {
+      "id": "s01_sl13_a",
+      "slide": 13,
+      "kind": "narration",
+      "spoken_text": "This slide introduces detail-first thinking, sometimes described as bottom-up processing. The image builds a whole scene from individual details. It offers a way to think about how someone may notice specifics and build the bigger picture from them.\n\nThat can help us notice genuine strengths: recognising patterns, remembering detail, understanding systems, finding inconsistencies, or engaging with a subject very deeply. Honesty and directness, logical precision and depth of connection may also be important parts of a student's experience. These are possibilities to notice in individuals, rather than a checklist every Autistic student must match.\n\nA fuller intake of detail can also create load. Something that seems like background information to one person may be very noticeable to another. We can value precision while considering what the environment asks of the student.\n\nOn page five, Strengths I can see, choose one strength you've actually observed in each student. Where or when does it show up? Pause if you'd like time to record it.",
+      "post_pause_seconds": 8,
+      "screen_cue": "Participant Guide p. 5. Note a strength you have seen.",
+      "source_note": "Secondary Education Online Session 1, slide 13; corresponding speaker notes and Facilitator Guide p. 20. Participant Guide p. 5. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted. Individual variability retained; source bottom-up framework is explained without asserting one universal brain architecture.",
+      "spoken_text_sha256": "26ebf16422f3d5a0f5e4ea7dabb027396da5a9b1f4ca2302bea582d451c9ca47"
+    },
+    {
+      "id": "s01_sl13_b",
+      "slide": 13,
+      "kind": "narration",
+      "spoken_text": "As you review those notes, check that the strength is described in its own right. It is something present now that an educator can recognise and build on. Where you don't yet have an example, keep that space open for further listening and observation.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Secondary Education Online Session 1, slide 13; corresponding speaker notes and Facilitator Guide p. 20. Participant Guide p. 5. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "d3eff1b886ad69ae6b32489871716c29b5fd5df4c4178c5c65bc5c89f4749cb8"
+    },
+    {
+      "id": "s01_sl14_a",
+      "slide": 14,
+      "kind": "narration",
+      "spoken_text": "Now consider where attention goes. The torch and floodlight on the slide show two ways attention can spread. A floodlight covers a wider area. A torch concentrates light more deeply in one place.\n\nMonotropism is a framework for understanding attention that channels into fewer things with greater depth. Developed by Dinah Murray, Mike Lesser and Wenn Lawson, it helps us consider deep interests, transitions and the experience of flow. It is a lens for inquiry, with individual differences still in view.\n\nThink of a student absorbed in coding, a design project, writing, or a topic they love. Their attention is invested there. When the bell goes, stopping and moving to another subject can ask a great deal. A warning, a clear place to stop, and support for the transition may make that shift more manageable.\n\nDeep interests can give access to learning, memory and joy. Full absorption can be a valuable experience. Alongside helping students change activities when needed, we can look for opportunities to protect that depth of engagement.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Secondary Education Online Session 1, slide 14; corresponding speaker notes and Facilitator Guide p. 21. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "f1a4ca79f26015c09363809d0bed3bf622a698b2eeb6a2e8389fa7bf443ad11b"
+    },
+    {
+      "id": "s01_sl15_a",
+      "slide": 15,
+      "kind": "narration",
+      "spoken_text": "Executive functioning gives us language for the demands within a task. Planning is working out the steps. Organisation concerns the materials and information needed. Time management includes judging and using the time available. Working memory helps us hold information while we use it. Meta-cognition means thinking about our own thinking.\n\nThe other areas on the slide are emotional regulation, flexibility, attention, task initiation and persistence. They include managing feelings, adapting when something changes, directing attention, getting started and continuing with a task.\n\nConsider an assessment handed out in the last period. The subject knowledge is only part of what it asks. A student also needs to understand the instructions, organise materials, decide where to begin, plan work over time, and remember how to submit it.\n\nThese terms are lenses for inquiry. They don't tell us why a particular student is struggling. Ask which demand needs support. Written steps, a visible first action or a clearer schedule may be useful possibilities to investigate, depending on the student and the task.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Secondary Education Online Session 1, slide 15; corresponding speaker notes and Facilitator Guide p. 22. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "f25c1a5754ccbca1890b2ce92758f604811d0d79ca2dff518099d961e5df4a7f"
+    },
+    {
+      "id": "s01_sl16_a",
+      "slide": 16,
+      "kind": "narration",
+      "spoken_text": "Let's return to interoception, our awareness and understanding of internal body signals. Those signals can include temperature, hunger, thirst and needing the bathroom. They help us make sense of how we're doing inside.\n\nAlexithymia means difficulty identifying and describing emotions and feelings. A person might find it hard to distinguish excitement from anxiety, or to find words for what they feel. The questions on the slide remind us that an outward sign doesn't always tell us the inner experience. Crying, for example, does not give us a complete explanation of someone's feelings.\n\nIn school, we might ask how a student can communicate a need or access a break when a signal is unclear or hard to describe. We shouldn't assume that appearing calm means feeling comfortable, or that a student can always explain a feeling on demand. Keep listening, allow time and stay curious about what we cannot see.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Secondary Education Online Session 1, slide 16; corresponding speaker notes and Facilitator Guide p. 23. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "67853aac24804b99f5d5350b6fb9a3efe84199fafabba8a49253adc4326ace52"
+    },
+    {
+      "id": "s01_sl17_a",
+      "slide": 17,
+      "kind": "narration",
+      "spoken_text": "We're going to put that environment-first lens to work. On page five of your guide, choose one familiar routine in a class or across the school day. Moving between periods, entering a practical science lesson, changing for P E, or attending an assembly could be useful starting points.\n\nFirst, name the routine without identifying a student or school. Then list the sensory and task demands before listing any student responses. What is the environment asking someone to manage?\n\nNext, add possible options that might increase access or choice. Include how a student could communicate what helps. Finally, turn each option into a question to explore. For example, could a clearer transition arrangement help here, and how would we find out with the student?\n\nWork privately, or pause and talk it through with a colleague if you're watching together. We are reviewing a routine, not trying to simulate another person's sensory experience. One grounded question is enough. Pause the video for a few minutes, then return for the debrief.",
+      "post_pause_seconds": 8,
+      "screen_cue": "Participant Guide p. 5. Pause to review one routine.",
+      "source_note": "Secondary Education Online Session 1, slide 17; corresponding speaker notes and Facilitator Guide p. 24. Participant Guide p. 5. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "ae2abe1622f005f88f86e38125163f307dcfd183ad8dc84f5f603a0c8d593f1a"
+    },
+    {
+      "id": "s01_sl17_b",
+      "slide": 17,
+      "kind": "narration",
+      "spoken_text": "Look back over your notes. Have you described demands in the environment and task, or have you slipped into describing a student as the problem? If you have an option in mind, whose knowledge will help you decide whether it fits?\n\nLighting, sound, movement, proximity and materials may all matter differently to different students. An option is still a question until you explore it in context. What could educators change, offer or investigate before increasing demands on the student? Keep that question with you as you return to school.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Secondary Education Online Session 1, slide 17; corresponding speaker notes and Facilitator Guide p. 24. Participant Guide p. 5. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "66a05448c524deeb05b77dd70a70cc2b68fb8f8fd9b4774da1fa43b2f2604e66"
+    },
+    {
+      "id": "s01_sl18_a",
+      "slide": 18,
+      "kind": "narration",
+      "spoken_text": "Before Session Two, there is a light noticing task on page six. Choose one familiar routine you're already part of. Notice what supports access, connection or joy for the students you have in mind. Notice what seems to add demand, and when. Then write down what you don't know yet as a question to explore.\n\nYou don't need to set up an extra activity or collect identifying information. Keep the notes brief and private. If you don't get a chance to do this, you can still take part fully in the next session.\n\nWe'll use those observations as we explore communication, connection and how demands build across a secondary school day, across subjects and teachers. Keep your guide handy, and come back to Session Two when you're ready. Thank you for the attention and thought you've brought to this first session.",
+      "post_pause_seconds": 3,
+      "screen_cue": null,
+      "source_note": "Secondary Education Online Session 1, slide 18; corresponding speaker notes and Facilitator Guide p. 25. Participant Guide p. 6. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "cc2c069850d60e30110212da0d3284c101a03eb6c6f8229f78736f35c67f1437"
+    }
+  ],
+  "workshop": "Secondary Education Online",
+  "recording_note": "AI facilitator simulation using Steve Hogan. Four online sessions, optional participation and brief activity pauses. Original films retain their original audio."
+}
