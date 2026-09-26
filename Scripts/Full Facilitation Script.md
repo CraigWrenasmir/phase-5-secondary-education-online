@@ -491,7 +491,7 @@ Support the students you teach to know themselves, and to know that who they are
 
 Thank you for joining this session. Keep your map and your Keep, Reduce, Explore notes. Session Three turns them into a practical change that you can try, review and refine.
 
-Source and adaptation: Secondary Education Online Session 2, slide 18; corresponding speaker notes and Facilitator Guide p. 45. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted. Source authored close adapted for recorded online delivery and individual variability. Guide preparation p. 26 requests replacement of current puzzle-piece closing image. Original supplied visual preserved; image issue disclosed in source-notes.json.
+Source and adaptation: Secondary Education Online Session 2, slide 18; corresponding speaker notes and Facilitator Guide p. 45. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted. Source authored close adapted for recorded online delivery and individual variability. Guide preparation p. 26 requests replacement of the puzzle-piece closing image. The recorded slide uses the Positive Autistic Identity replacement supplied by Craig on 27 September 2026. The original downloadable source decks remain unchanged.
 
 
 # Secondary Education Online · Session 3

@@ -190,8 +190,8 @@
       "category": "Videos",
       "url": "https://github.com/CraigWrenasmir/phase-5-secondary-education-online/releases/download/workshop-v1/secondary-online--session-02.mp4",
       "storage": "release",
-      "bytes": 253524385,
-      "sha256": "f61c2986bdcfce00c9ebdc5d6fcb2806c317fb5a8a6837c32bf8908930dd3342"
+      "bytes": 252927497,
+      "sha256": "468d35b8245439bee01cdaddbbe771712dcebc714c18ad8e83f132b20c5822de"
     },
     {
       "label": "Session 2 · web playback",
@@ -200,8 +200,8 @@
       "category": "Web playback",
       "url": "media/session-2.mp4",
       "storage": "pages",
-      "bytes": 79259925,
-      "sha256": "39f7223fccffd5496cbee931e494b0238a35548d2bf3b0a1ac2f4eafddcbd164"
+      "bytes": 79187050,
+      "sha256": "1c7e36eb412682b2d605f28f5fcec3adc709e685b8affec48a3f5560c64d3773"
     },
     {
       "label": "Session 2 · Communication, Connection and Daily Capacity · structured script",
@@ -210,8 +210,8 @@
       "category": "Scripts",
       "url": "Scripts/session-2.json",
       "storage": "pages",
-      "bytes": 33182,
-      "sha256": "c0c6b34b64c2a2624320cf18b942b05ba20371b08e6460551bf2ee8fb7c4e0fe"
+      "bytes": 33262,
+      "sha256": "8c16f8e0d552348b788d37d8a1efc9a37c3cb6b379a5ecc6eab2de3ceec86f1d"
     },
     {
       "label": "Session 2 · Communication, Connection and Daily Capacity · readable script",
@@ -220,8 +220,8 @@
       "category": "Scripts",
       "url": "Scripts/session-2.md",
       "storage": "pages",
-      "bytes": 26139,
-      "sha256": "a40285ae435488bf40ca1e7ab8d101d364afab7f8cb43e595cc951127835520a"
+      "bytes": 26219,
+      "sha256": "f71a803ad22c8fd568bff84c9a53057388a730d3d44271ed3004769ed8efbfa2"
     },
     {
       "label": "Session 2 · SRT",
@@ -370,8 +370,8 @@
       "category": "Videos",
       "url": "https://github.com/CraigWrenasmir/phase-5-secondary-education-online/releases/download/workshop-v1/secondary-online--full-workshop.mp4",
       "storage": "release",
-      "bytes": 568194169,
-      "sha256": "20826fc0af9b77288f00b04934254367ddf3e9ba7a5f911eb7fe3b54ddba9786"
+      "bytes": 567601317,
+      "sha256": "f9a2c0ec5aa29839b1909cc4d350c16d6c9dc082e0bd61336d44687f939e4c9a"
     },
     {
       "label": "Complete workshop · SRT",
@@ -400,8 +400,18 @@
       "category": "Scripts",
       "url": "Scripts/Full Facilitation Script.md",
       "storage": "pages",
-      "bytes": 99225,
-      "sha256": "958cac46d8cc36a5da9ac0b1b200b465fe01cfa679087b0fbedff2f78a187c6d"
+      "bytes": 99305,
+      "sha256": "5335b50d0bb7b533240887cbeaa12f28023f88273b5cd174cb7d899ed462c16f"
+    },
+    {
+      "label": "Positive Autistic Identity replacement slide",
+      "filename": "positive-autistic-identity.png",
+      "format": "png",
+      "category": "Slide replacements",
+      "url": "assets/positive-autistic-identity.png",
+      "storage": "pages",
+      "bytes": 306570,
+      "sha256": "b733304edaebde663f1bdef6d700ccf6e4682ef8066ad637989e50cd276602af"
     }
   ],
   "source_original_count": 12,

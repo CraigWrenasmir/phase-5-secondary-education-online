@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-27",
+  "workshop": "Secondary Education Online",
+  "session": 2,
+  "slide": 18,
+  "scope": "Positive Autistic Identity visual replacement",
+  "replacement": {
+    "url": "assets/positive-autistic-identity.png",
+    "bytes": 306570,
+    "sha256": "b733304edaebde663f1bdef6d700ccf6e4682ef8066ad637989e50cd276602af"
+  },
+  "source_documents": "Original downloadable source documents remain unchanged.",
+  "frame_rate": 25,
+  "session_interval": {
+    "start_frame": 36428,
+    "end_frame": 38439
+  },
+  "combined_interval": {
+    "start_frame": 66675,
+    "end_frame": 68686
+  },
+  "media": {
+    "session_download": {
+      "url": "https://github.com/CraigWrenasmir/phase-5-secondary-education-online/releases/download/workshop-v1/secondary-online--session-02.mp4",
+      "bytes": 252927497,
+      "sha256": "468d35b8245439bee01cdaddbbe771712dcebc714c18ad8e83f132b20c5822de",
+      "previous": {
+        "bytes": 253524385,
+        "sha256": "f61c2986bdcfce00c9ebdc5d6fcb2806c317fb5a8a6837c32bf8908930dd3342"
+      }
+    },
+    "combined_download": {
+      "url": "https://github.com/CraigWrenasmir/phase-5-secondary-education-online/releases/download/workshop-v1/secondary-online--full-workshop.mp4",
+      "bytes": 567601317,
+      "sha256": "f9a2c0ec5aa29839b1909cc4d350c16d6c9dc082e0bd61336d44687f939e4c9a",
+      "previous": {
+        "bytes": 568194169,
+        "sha256": "20826fc0af9b77288f00b04934254367ddf3e9ba7a5f911eb7fe3b54ddba9786"
+      }
+    },
+    "web_playback": {
+      "url": "media/session-2.mp4?v=1c7e36eb4126",
+      "bytes": 79187050,
+      "sha256": "1c7e36eb412682b2d605f28f5fcec3adc709e685b8affec48a3f5560c64d3773",
+      "previous": {
+        "bytes": 79259925,
+        "sha256": "39f7223fccffd5496cbee931e494b0238a35548d2bf3b0a1ac2f4eafddcbd164"
+      }
+    }
+  },
+  "preservation_checks": {
+    "session_download": {
+      "frames": true,
+      "duration": true,
+      "chapters": true,
+      "audio_packets_and_timing": true
+    },
+    "combined_download": {
+      "frames": true,
+      "duration": true,
+      "chapters": true,
+      "audio_packets_and_timing": true
+    },
+    "web_playback": {
+      "frames": true,
+      "duration": true,
+      "chapters": true,
+      "audio_packets_and_timing": true
+    }
+  }
+}
