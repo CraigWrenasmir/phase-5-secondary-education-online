@@ -130,8 +130,8 @@
       "category": "Videos",
       "url": "https://github.com/CraigWrenasmir/phase-5-secondary-education-online/releases/download/workshop-v1/secondary-online--session-01.mp4",
       "storage": "release",
-      "bytes": 122331737,
-      "sha256": "bbded08e7b5843ae5e3aeca23847bbea570f7d9ab79a6562a400ad58dccb2e61"
+      "bytes": 129911419,
+      "sha256": "1016ff3b32b1adec170e303067b159ade18543849a9b3103572730b6ca8b9361"
     },
     {
       "label": "Session 1 · web playback",
@@ -140,8 +140,8 @@
       "category": "Web playback",
       "url": "media/session-1.mp4",
       "storage": "pages",
-      "bytes": 37307242,
-      "sha256": "a73367bd0bcbb90a9466b8c91278314707e9ec916e332df002b8de9333e20cfa"
+      "bytes": 39028662,
+      "sha256": "24984e29a95a2be2d7bfbee99ae1704ddc87fb5107e3ff27f589f15a239155ff"
     },
     {
       "label": "Session 1 · Autism, Sensory and Ways of Thinking · structured script",
@@ -150,8 +150,8 @@
       "category": "Scripts",
       "url": "Scripts/session-1.json",
       "storage": "pages",
-      "bytes": 29261,
-      "sha256": "e6dd7c67bfd3540f359e81e5d54054cc9aaec334e9bdf9c0987becc5f86c7349"
+      "bytes": 30600,
+      "sha256": "49d8682478f88da97c36d2651bb3fe35973eadc5ca7c4f73ce097c99f08bea4a"
     },
     {
       "label": "Session 1 · Autism, Sensory and Ways of Thinking · readable script",
@@ -160,8 +160,8 @@
       "category": "Scripts",
       "url": "Scripts/session-1.md",
       "storage": "pages",
-      "bytes": 23477,
-      "sha256": "270897346c2b476d42ca876f49232eb375f7ffecec303caf249aa8167adab578"
+      "bytes": 24517,
+      "sha256": "9684210d7e63f3328129d790d099747fa426eb0077e13d95ac0ab70571f901f8"
     },
     {
       "label": "Session 1 · SRT",
@@ -170,8 +170,8 @@
       "category": "Captions",
       "url": "Captions/session-1.srt",
       "storage": "pages",
-      "bytes": 23290,
-      "sha256": "ff7bf2ad85b15c3b6c345c9a7e9228140760182fe072edbfb94a86644947fc2b"
+      "bytes": 24343,
+      "sha256": "4a108bc19466711df331d156fee8e384f037571ae1eedac7619ebfda9bd4c0a6"
     },
     {
       "label": "Session 1 · VTT",
@@ -180,8 +180,8 @@
       "category": "Captions",
       "url": "Captions/session-1.vtt",
       "storage": "pages",
-      "bytes": 23298,
-      "sha256": "c44c7cce1e4ea61fd8bfd632e1b42e6be77c15058f49b16bcdbf62ce77015a3e"
+      "bytes": 23559,
+      "sha256": "2476b08f69d0cbef16b7eb584788ebf2bdcf2304da6878154ac6bc3859a4a8c5"
     },
     {
       "label": "Session 2 · Communication, Connection and Daily Capacity",
@@ -370,8 +370,8 @@
       "category": "Videos",
       "url": "https://github.com/CraigWrenasmir/phase-5-secondary-education-online/releases/download/workshop-v1/secondary-online--full-workshop.mp4",
       "storage": "release",
-      "bytes": 567601317,
-      "sha256": "f9a2c0ec5aa29839b1909cc4d350c16d6c9dc082e0bd61336d44687f939e4c9a"
+      "bytes": 575175947,
+      "sha256": "c5c967e0692bc21364b341051cd24203710d3ece12700bd9f24c1347cd1d688c"
     },
     {
       "label": "Complete workshop · SRT",
@@ -380,8 +380,8 @@
       "category": "Captions",
       "url": "Captions/full-workshop.srt",
       "storage": "pages",
-      "bytes": 97245,
-      "sha256": "39c034fc3b8a1be682298147a8fc15f3dadff0f8c5fe9592db04f4bafe4a150c"
+      "bytes": 98298,
+      "sha256": "06edb6223d5a75ea021022dbc321be7d33608422b4a69f65fec059ee920795fc"
     },
     {
       "label": "Complete workshop · VTT",
@@ -390,8 +390,8 @@
       "category": "Captions",
       "url": "Captions/full-workshop.vtt",
       "storage": "pages",
-      "bytes": 97253,
-      "sha256": "fb17c3aedce804ff3dc34a8a898ef2e032e076e22633bccedbff720d2383ef8f"
+      "bytes": 94806,
+      "sha256": "96029eaf548363716ff4112b327aec5590441d6c6011e32e62974219ef3d308f"
     },
     {
       "label": "Full facilitation script",
@@ -400,8 +400,8 @@
       "category": "Scripts",
       "url": "Scripts/Full Facilitation Script.md",
       "storage": "pages",
-      "bytes": 99305,
-      "sha256": "5335b50d0bb7b533240887cbeaa12f28023f88273b5cd174cb7d899ed462c16f"
+      "bytes": 100345,
+      "sha256": "879e2916fc4db7531dd6ad8fa9edd195b974357eb8a8fc36d571b6c358a52e91"
     },
     {
       "label": "Positive Autistic Identity replacement slide",

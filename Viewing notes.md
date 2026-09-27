@@ -1,5 +1,7 @@
 # Secondary Education Online: viewing notes
 
+The Statement of Reconciliation supplied on 27 September 2026 is read aloud after the Acknowledgement of Country in Session 1. Participants are invited to read it in their workbook; the presenter reads it aloud for this demonstration.
+
 Four recorded simulations of the Secondary Education Online workshop, covering all 70 supplied slides in order. Slide visuals are retained except for the Positive Autistic Identity slide, updated with the supplied replacement. Three embedded films are retained. Delivery uses private reflection and light optional online participation with brief pauses that viewers can extend.
 
 - The supplied programme consists of four live online sessions of 60 minutes each. Recording length is shorter because extended individual work, breakout periods and live contributions are replaced by brief eight-second pauses. Every structured activity is introduced and debriefed, with prompts to pause for longer.

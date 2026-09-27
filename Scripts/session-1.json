@@ -23,6 +23,20 @@
       "spoken_text_sha256": "f78c39105e4b41601ada02d07f278c786706c4da278ae23a28103fb6cd967d97"
     },
     {
+      "id": "s01_reconciliation_a",
+      "slide": null,
+      "after_slide": 2,
+      "title": "Statement of Reconciliation",
+      "kind": "narration",
+      "post_pause_seconds": 2.22475,
+      "screen_cue": null,
+      "additional_chapter": true,
+      "spoken_text": "Our Statement of Reconciliation is in your workbook for you to read. For the sake of this demonstration, I'll read it aloud. We at Positive Partnerships value and recognise the diversity of Aboriginal and Torres Strait Islander cultures and heritage and their proud part in Australia’s national identity. We acknowledge and continue to learn about Australia’s colonial past and the historic and ongoing impacts on Australia’s First Nations people. We believe in and strongly support the Truth-telling of Australia’s colonial history and in moving forward as a nation we must encourage open, honest dialogue and build relationships built on respect and trust.",
+      "source_note": "The Statement of Reconciliation was supplied and authorised by Craig on 27 September 2026. Its wording is reproduced exactly. The preceding workbook and demonstration introduction is newly authored for this recording.",
+      "spoken_text_sha256": "c76f04c8f0d0fbe435fbf945d994f87a5f6ac8f99bc4fd0ffeed63b10d27f259",
+      "revision": "reconciliation-2026-09-27"
+    },
+    {
       "id": "s01_sl03_a",
       "slide": 3,
       "kind": "narration",

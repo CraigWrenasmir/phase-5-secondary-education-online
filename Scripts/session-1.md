@@ -18,6 +18,14 @@ I acknowledge the Traditional Custodians of the lands and waters from which we a
 
 Source and adaptation: Secondary Education Online Session 1, slide 2; corresponding speaker notes and Facilitator Guide p. 9. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted. Location-neutral acknowledgement. Supplied guide asks live presenters to prepare confirmed local Country names and follow organisational protocol; no specific Custodians or presenter location supplied.
 
+### Additional chapter - Statement of Reconciliation
+
+Our Statement of Reconciliation is in your workbook for you to read. For the sake of this demonstration, I'll read it aloud. We at Positive Partnerships value and recognise the diversity of Aboriginal and Torres Strait Islander cultures and heritage and their proud part in Australia’s national identity. We acknowledge and continue to learn about Australia’s colonial past and the historic and ongoing impacts on Australia’s First Nations people. We believe in and strongly support the Truth-telling of Australia’s colonial history and in moving forward as a nation we must encourage open, honest dialogue and build relationships built on respect and trust.
+
+*This chapter follows source slide 2. Source slide numbers are unchanged.*
+
+Source and adaptation: The Statement of Reconciliation was supplied and authorised by Craig on 27 September 2026. Its wording is reproduced exactly. The preceding workbook and demonstration introduction is newly authored for this recording.
+
 ### Slide 3
 
 First Nations people are advised that this workshop may contain images and voices of people who are no longer with us.
