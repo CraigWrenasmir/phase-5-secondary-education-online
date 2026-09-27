@@ -10,7 +10,23 @@
       "post_pause_seconds": 1.5,
       "screen_cue": null,
       "source_note": "Secondary Education Online Session 1, slide 1; corresponding speaker notes and Facilitator Guide p. 8. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted. Series format adapted explicitly for recorded simulation; no producer or live room is claimed.",
-      "spoken_text_sha256": "4f77d6e5816891c09a4faf053494a318f3b4a7e24ae8234831a3f5b1dde7c943"
+      "spoken_text_sha256": "4f77d6e5816891c09a4faf053494a318f3b4a7e24ae8234831a3f5b1dde7c943",
+      "source_timing": {
+        "suggested_minutes": 1.0,
+        "session_minute_start": 0,
+        "session_minute_end": 1,
+        "exact_source_timing": "SUGGESTED TIME: 1 min  ·  minutes 0 - 1",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 1,
+        "slide_part": "ppt/slides/slide1.xml",
+        "notes_part": "ppt/notesSlides/notesSlide1.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 1
+      }
     },
     {
       "id": "s01_sl02_a",
@@ -20,7 +36,23 @@
       "post_pause_seconds": 3,
       "screen_cue": null,
       "source_note": "Secondary Education Online Session 1, slide 2; corresponding speaker notes and Facilitator Guide p. 9. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted. Location-neutral acknowledgement. Supplied guide asks live presenters to prepare confirmed local Country names and follow organisational protocol; no specific Custodians or presenter location supplied.",
-      "spoken_text_sha256": "f78c39105e4b41601ada02d07f278c786706c4da278ae23a28103fb6cd967d97"
+      "spoken_text_sha256": "f78c39105e4b41601ada02d07f278c786706c4da278ae23a28103fb6cd967d97",
+      "source_timing": {
+        "suggested_minutes": 2.0,
+        "session_minute_start": 1,
+        "session_minute_end": 3,
+        "exact_source_timing": "SUGGESTED TIME: 2 min  ·  minutes 1 - 3",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 2,
+        "slide_part": "ppt/slides/slide2.xml",
+        "notes_part": "ppt/notesSlides/notesSlide2.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 2
+      }
     },
     {
       "id": "s01_reconciliation_a",
@@ -34,7 +66,9 @@
       "spoken_text": "Our Statement of Reconciliation is in your workbook for you to read. For the sake of this demonstration, I'll read it aloud. We at Positive Partnerships value and recognise the diversity of Aboriginal and Torres Strait Islander cultures and heritage and their proud part in Australia’s national identity. We acknowledge and continue to learn about Australia’s colonial past and the historic and ongoing impacts on Australia’s First Nations people. We believe in and strongly support the Truth-telling of Australia’s colonial history and in moving forward as a nation we must encourage open, honest dialogue and build relationships built on respect and trust.",
       "source_note": "The Statement of Reconciliation was supplied and authorised by Craig on 27 September 2026. Its wording is reproduced exactly. The preceding workbook and demonstration introduction is newly authored for this recording.",
       "spoken_text_sha256": "c76f04c8f0d0fbe435fbf945d994f87a5f6ac8f99bc4fd0ffeed63b10d27f259",
-      "revision": "reconciliation-2026-09-27"
+      "revision": "reconciliation-2026-09-27",
+      "image_sha256": "d6e9ab0e7fa4267fe3f0f319efa68aece24e7396df4efe2213f5db727a960832",
+      "artwork_note": "The approved Statement of Reconciliation artwork is retained in the session video."
     },
     {
       "id": "s01_sl03_a",
@@ -44,7 +78,23 @@
       "post_pause_seconds": 3,
       "screen_cue": null,
       "source_note": "Secondary Education Online Session 1, slide 3; corresponding speaker notes and Facilitator Guide p. 10. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted. Advisory read verbatim from supplied slide.",
-      "spoken_text_sha256": "3d8f2f4deacd160ecc682bdcdfb064169920cb4eb6517bb7959b056893a2ea26"
+      "spoken_text_sha256": "3d8f2f4deacd160ecc682bdcdfb064169920cb4eb6517bb7959b056893a2ea26",
+      "source_timing": {
+        "suggested_minutes": 1.0,
+        "session_minute_start": 3,
+        "session_minute_end": 4,
+        "exact_source_timing": "SUGGESTED TIME: 1 min  ·  minutes 3 - 4",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 3,
+        "slide_part": "ppt/slides/slide3.xml",
+        "notes_part": "ppt/notesSlides/notesSlide3.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 3
+      }
     },
     {
       "id": "s01_sl04_a",
@@ -54,7 +104,23 @@
       "post_pause_seconds": 3,
       "screen_cue": null,
       "source_note": "Secondary Education Online Session 1, slide 4; corresponding speaker notes and Facilitator Guide p. 11. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
-      "spoken_text_sha256": "22cde70f91ceaee599bd92ef70c1a594be31e2e29664a2543dd9325eb4c066eb"
+      "spoken_text_sha256": "22cde70f91ceaee599bd92ef70c1a594be31e2e29664a2543dd9325eb4c066eb",
+      "source_timing": {
+        "suggested_minutes": 2.0,
+        "session_minute_start": 4,
+        "session_minute_end": 6,
+        "exact_source_timing": "SUGGESTED TIME: 2 min  ·  minutes 4 - 6",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 4,
+        "slide_part": "ppt/slides/slide4.xml",
+        "notes_part": "ppt/notesSlides/notesSlide17.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 4
+      }
     },
     {
       "id": "s01_sl05_a",
@@ -64,7 +130,23 @@
       "post_pause_seconds": 8,
       "screen_cue": "Participant Guide p. 4. Pause to write privately.",
       "source_note": "Secondary Education Online Session 1, slide 5; corresponding speaker notes and Facilitator Guide p. 12. Participant Guide p. 4. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
-      "spoken_text_sha256": "9616f47486b6390ababfa87cbb576acb045def63da2d4e0e0fbde45877cef366"
+      "spoken_text_sha256": "9616f47486b6390ababfa87cbb576acb045def63da2d4e0e0fbde45877cef366",
+      "source_timing": {
+        "suggested_minutes": 4.0,
+        "session_minute_start": 6,
+        "session_minute_end": 10,
+        "exact_source_timing": "SUGGESTED TIME: 4 min  ·  minutes 6 - 10  ·  Participant Guide - Think about your students",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 5,
+        "slide_part": "ppt/slides/slide5.xml",
+        "notes_part": "ppt/notesSlides/notesSlide4.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 5
+      }
     },
     {
       "id": "s01_sl05_b",
@@ -74,7 +156,23 @@
       "post_pause_seconds": 1.5,
       "screen_cue": null,
       "source_note": "Secondary Education Online Session 1, slide 5; corresponding speaker notes and Facilitator Guide p. 12. Participant Guide p. 4. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
-      "spoken_text_sha256": "c155b142a5a1b12a34146d2b0eb0fdd84419ddf3bff761f775e802e842cc0963"
+      "spoken_text_sha256": "c155b142a5a1b12a34146d2b0eb0fdd84419ddf3bff761f775e802e842cc0963",
+      "source_timing": {
+        "suggested_minutes": 4.0,
+        "session_minute_start": 6,
+        "session_minute_end": 10,
+        "exact_source_timing": "SUGGESTED TIME: 4 min  ·  minutes 6 - 10  ·  Participant Guide - Think about your students",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 5,
+        "slide_part": "ppt/slides/slide5.xml",
+        "notes_part": "ppt/notesSlides/notesSlide4.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 5
+      }
     },
     {
       "id": "s01_sl06_a",
@@ -84,14 +182,51 @@
       "post_pause_seconds": 1.5,
       "screen_cue": null,
       "source_note": "Secondary Education Online Session 1, slide 6; corresponding speaker notes and Facilitator Guide p. 13. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
-      "spoken_text_sha256": "b9e5730567b7d8c5933058ac2361a788f49a84eacbf4937dab7c23e7178de637"
+      "spoken_text_sha256": "b9e5730567b7d8c5933058ac2361a788f49a84eacbf4937dab7c23e7178de637",
+      "source_timing": {
+        "suggested_minutes": 6.0,
+        "session_minute_start": 10,
+        "session_minute_end": 16,
+        "exact_source_timing": "SUGGESTED TIME: 6 min  ·  minutes 10 - 16",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 6,
+        "slide_part": "ppt/slides/slide6.xml",
+        "notes_part": "ppt/notesSlides/notesSlide5.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 6
+      }
     },
     {
       "id": "s01_sl06_video",
       "slide": 6,
       "kind": "video",
-      "media_path": "s01-slide08-media1.mp4",
-      "source_note": "Original Secondary Education Online embedded film, Session 1 slide 6. SHA-256 04f5bbf13c7b61c72ce047d6549309e871fcb4992bfb2bba87bbe62d761b4834. Repeated relationship references deduplicated. Play once, in full, without presenter speech over the film."
+      "source_note": "Original Secondary Education Online embedded film, Session 1 slide 6. SHA-256 04f5bbf13c7b61c72ce047d6549309e871fcb4992bfb2bba87bbe62d761b4834. Repeated relationship references deduplicated. Play once, in full, without presenter speech over the film.",
+      "source_timing": {
+        "suggested_minutes": 6.0,
+        "session_minute_start": 10,
+        "session_minute_end": 16,
+        "exact_source_timing": "SUGGESTED TIME: 6 min  ·  minutes 10 - 16",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 6,
+        "slide_part": "ppt/slides/slide6.xml",
+        "notes_part": "ppt/notesSlides/notesSlide5.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 6
+      },
+      "source_sha256": "04f5bbf13c7b61c72ce047d6549309e871fcb4992bfb2bba87bbe62d761b4834",
+      "post_pause_seconds": 0.0,
+      "source_media_file": "s01-slide08-media1.mp4",
+      "published_video": "https://github.com/CraigWrenasmir/phase-5-secondary-education-online/releases/download/workshop-v1/secondary-online--session-01.mp4",
+      "video_start_seconds": 314.88,
+      "video_end_seconds": 455.76
     },
     {
       "id": "s01_sl07_a",
@@ -101,7 +236,23 @@
       "post_pause_seconds": 8,
       "screen_cue": "Participant Guide p. 4. What stayed with you?",
       "source_note": "Secondary Education Online Session 1, slide 7; corresponding speaker notes and Facilitator Guide p. 14. Participant Guide p. 4. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
-      "spoken_text_sha256": "405f4fd984d6d0054182e7c1960ad5125475126b6a0c6800be61ef02951e7a0d"
+      "spoken_text_sha256": "405f4fd984d6d0054182e7c1960ad5125475126b6a0c6800be61ef02951e7a0d",
+      "source_timing": {
+        "suggested_minutes": 5.0,
+        "session_minute_start": 16,
+        "session_minute_end": 21,
+        "exact_source_timing": "SUGGESTED TIME: 5 min  ·  minutes 16 - 21  ·  Participant Guide - What did you notice?",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 7,
+        "slide_part": "ppt/slides/slide7.xml",
+        "notes_part": "ppt/notesSlides/notesSlide6.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 7
+      }
     },
     {
       "id": "s01_sl07_b",
@@ -111,7 +262,23 @@
       "post_pause_seconds": 1.5,
       "screen_cue": null,
       "source_note": "Secondary Education Online Session 1, slide 7; corresponding speaker notes and Facilitator Guide p. 14. Participant Guide p. 4. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
-      "spoken_text_sha256": "219b7f5d583f12cc454b771c1b897abec9cf078de5f58e89d76d9c2fa11632b3"
+      "spoken_text_sha256": "219b7f5d583f12cc454b771c1b897abec9cf078de5f58e89d76d9c2fa11632b3",
+      "source_timing": {
+        "suggested_minutes": 5.0,
+        "session_minute_start": 16,
+        "session_minute_end": 21,
+        "exact_source_timing": "SUGGESTED TIME: 5 min  ·  minutes 16 - 21  ·  Participant Guide - What did you notice?",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 7,
+        "slide_part": "ppt/slides/slide7.xml",
+        "notes_part": "ppt/notesSlides/notesSlide6.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 7
+      }
     },
     {
       "id": "s01_sl08_a",
@@ -121,7 +288,23 @@
       "post_pause_seconds": 1.5,
       "screen_cue": null,
       "source_note": "Secondary Education Online Session 1, slide 8; corresponding speaker notes and Facilitator Guide p. 15. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
-      "spoken_text_sha256": "45e20b5a25ff3c978ab949c7295febae446090b15412f5c2f72ed20256ce4739"
+      "spoken_text_sha256": "45e20b5a25ff3c978ab949c7295febae446090b15412f5c2f72ed20256ce4739",
+      "source_timing": {
+        "suggested_minutes": 4.0,
+        "session_minute_start": 21,
+        "session_minute_end": 25,
+        "exact_source_timing": "SUGGESTED TIME: 4 min  ·  minutes 21 - 25",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 8,
+        "slide_part": "ppt/slides/slide8.xml",
+        "notes_part": "ppt/notesSlides/notesSlide7.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 8
+      }
     },
     {
       "id": "s01_sl09_a",
@@ -131,119 +314,380 @@
       "post_pause_seconds": 1.5,
       "screen_cue": null,
       "source_note": "Secondary Education Online Session 1, slide 9; corresponding speaker notes and Facilitator Guide p. 16. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
-      "spoken_text_sha256": "6f73f1660d593a9eab827b30aabca6805a2da58585f238a2fee58e6b3faf2201"
+      "spoken_text_sha256": "6f73f1660d593a9eab827b30aabca6805a2da58585f238a2fee58e6b3faf2201",
+      "source_timing": {
+        "suggested_minutes": 3.0,
+        "session_minute_start": 25,
+        "session_minute_end": 28,
+        "exact_source_timing": "SUGGESTED TIME: 3 min  ·  minutes 25 - 28",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 9,
+        "slide_part": "ppt/slides/slide9.xml",
+        "notes_part": "ppt/notesSlides/notesSlide8.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 9
+      }
+    },
+    {
+      "id": "s01_sl10_law_dda_dse",
+      "slide": 10,
+      "kind": "narration",
+      "spoken_text": "That question about what can change around a student also connects with what the law asks of schools. There are three parts to the slide.\n\nFirst, the Disability Discrimination Act 1992 makes it unlawful to treat a person unfairly because of disability, including in education.\n\nSecond, the Disability Standards for Education 2005 explain the right of students with disability to take part in education on the same basis as other students. On the same basis means having opportunities and choices comparable to those available to other students. Keep that idea beside the routine or environment you've been thinking about.\n\nThe third part is what this asks of schools. Consult the student, or an associate such as a parent or carer. Make reasonable adjustments. Prevent harassment and victimisation. Every educator has a part in access, participation and inclusion.\n\nAs you listen, you might make a private note of one connection with your work. There is no need to share details about a particular student or school. We will return to reasonable adjustments and consultation later in the series, including our partnership work in Session Four.\n\nFor detailed or school-specific questions, speak with your principal or the relevant system contact. The Australian Government Department of Education's Disability Standards for Education page is a place to read more. Keep the link between our environment-first approach and these obligations in view as we continue.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Secondary Education Online Session 1, updated slide 10 and notes. Source planned timing: 2 minutes, minutes 28 to 30. New law slide covers DDA1992, DSE2005, same-basis opportunities and choices, consultation, reasonable adjustments and prevention of harassment and victimisation. Audience-facing online adaptation: optional private note, no actual live producer/chat activity or participant response asserted. Consultation returns in Session4.",
+      "spoken_text_sha256": "201fefb653c21fde8ac71b148766214b5492e702061082eadfbd8271d7aedc69",
+      "source_timing": {
+        "suggested_minutes": 2.0,
+        "session_minute_start": 28,
+        "session_minute_end": 30,
+        "exact_source_timing": "SUGGESTED TIME: 2 min  ·  minutes 28 - 30",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 10,
+        "slide_part": "ppt/slides/slide19.xml",
+        "notes_part": "ppt/notesSlides/notesSlide19.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 10
+      }
     },
     {
       "id": "s01_sl10_a",
-      "slide": 10,
+      "slide": 11,
       "kind": "narration",
       "spoken_text": "Autism can be understood as difference and dynamic disability. Access and support needs can change with the task, the environment, relationships and the capacity available at that moment.\n\nIn secondary school, that may happen within a single day. A student might participate comfortably in one subject, then find the next period much harder. The room, teacher, instructions, pace and previous demands may all be different. Managing something yesterday doesn't tell us what support is needed today.\n\nSo we keep our assumptions flexible. We ask what has changed, what the task requires, and what the student can tell us. Strengths and substantial support needs can both belong in the picture. Support should respond to the person and the situation, rather than to a fixed idea of what that student ought to manage.",
       "post_pause_seconds": 1.5,
       "screen_cue": null,
-      "source_note": "Secondary Education Online Session 1, slide 10; corresponding speaker notes and Facilitator Guide p. 17. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
-      "spoken_text_sha256": "cffbf4a4f3f7ca92dd406c35a9d837b107e47b70623606d8e8d003dca5c0d7f4"
+      "source_note": "Secondary Education Online Session 1, slide 11; corresponding speaker notes and Facilitator Guide p. 17. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "cffbf4a4f3f7ca92dd406c35a9d837b107e47b70623606d8e8d003dca5c0d7f4",
+      "source_timing": {
+        "suggested_minutes": 3.0,
+        "session_minute_start": 30,
+        "session_minute_end": 33,
+        "exact_source_timing": "SUGGESTED TIME: 3 min  ·  minutes 30 - 33",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 11,
+        "slide_part": "ppt/slides/slide10.xml",
+        "notes_part": "ppt/notesSlides/notesSlide9.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 11
+      }
     },
     {
       "id": "s01_sl11_a",
-      "slide": 11,
+      "slide": 12,
       "kind": "narration",
       "spoken_text": "Many of us learnt about five senses: touch, vision, taste, hearing and smell. This workshop extends that picture to eight.\n\nProprioception is our sense of where the body is in space. It involves information from our muscles and joints. Think about knowing where your feet are as you move through a busy room, or how much pressure to use when carrying equipment.\n\nThe vestibular sense concerns balance and movement. Moving on stairs, changing direction in a game, rocking in a chair, or being still after movement can involve this sense. Different students may seek or avoid different kinds of movement.\n\nInteroception is our sense of signals from inside the body. We'll return to it shortly, when we consider hunger, thirst and feelings.\n\nAcross a school day, senses work together. A science laboratory, the canteen, a music room and the bus bay offer quite different experiences. Keep the question open: what is this place like for this student, at this time?",
       "post_pause_seconds": 1.5,
       "screen_cue": null,
-      "source_note": "Secondary Education Online Session 1, slide 11; corresponding speaker notes and Facilitator Guide p. 18. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
-      "spoken_text_sha256": "c46403c139cd1e069f006f93d6a28b01ec73c81e8ee05f488c1f2a571ac4d699"
+      "source_note": "Secondary Education Online Session 1, slide 12; corresponding speaker notes and Facilitator Guide p. 18. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "c46403c139cd1e069f006f93d6a28b01ec73c81e8ee05f488c1f2a571ac4d699",
+      "source_timing": {
+        "suggested_minutes": 3.0,
+        "session_minute_start": 33,
+        "session_minute_end": 36,
+        "exact_source_timing": "SUGGESTED TIME: 3 min  ·  minutes 33 - 36",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 12,
+        "slide_part": "ppt/slides/slide11.xml",
+        "notes_part": "ppt/notesSlides/notesSlide10.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 12
+      }
     },
     {
       "id": "s01_sl12_a",
-      "slide": 12,
+      "slide": 13,
       "kind": "narration",
       "spoken_text": "Sensory experience includes pleasure, connection and regulation, as well as discomfort or overload. We need both parts in view.\n\nNotice sensory joy. It might be a sound, a texture, a movement or another experience the student values. Stimming can also be part of pleasure, regulation and authentic expression. Harmless stimming does not need to be discouraged simply because it looks different.\n\nThink about where you see enjoyment in the students you have in mind. If you aren't sure what an action means for someone, that's a reason to ask in a way they can use. Avoid treating difference as disruption by default. What would the student want other people to understand about that experience?",
       "post_pause_seconds": 1.5,
       "screen_cue": null,
-      "source_note": "Secondary Education Online Session 1, slide 12; corresponding speaker notes and Facilitator Guide p. 19. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
-      "spoken_text_sha256": "d4eeb2f13669874dd88a6509665221d18f321fc99defc3814a3e8b23dccb5840"
+      "source_note": "Secondary Education Online Session 1, slide 13; corresponding speaker notes and Facilitator Guide p. 19. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "d4eeb2f13669874dd88a6509665221d18f321fc99defc3814a3e8b23dccb5840",
+      "source_timing": {
+        "suggested_minutes": 2.0,
+        "session_minute_start": 36,
+        "session_minute_end": 38,
+        "exact_source_timing": "SUGGESTED TIME: 2 min  ·  minutes 36 - 38",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 13,
+        "slide_part": "ppt/slides/slide12.xml",
+        "notes_part": "ppt/notesSlides/notesSlide11.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 13
+      }
     },
     {
       "id": "s01_sl13_a",
-      "slide": 13,
+      "slide": 14,
       "kind": "narration",
       "spoken_text": "This slide introduces detail-first thinking, sometimes described as bottom-up processing. The image builds a whole scene from individual details. It offers a way to think about how someone may notice specifics and build the bigger picture from them.\n\nThat can help us notice genuine strengths: recognising patterns, remembering detail, understanding systems, finding inconsistencies, or engaging with a subject very deeply. Honesty and directness, logical precision and depth of connection may also be important parts of a student's experience. These are possibilities to notice in individuals, rather than a checklist every Autistic student must match.\n\nA fuller intake of detail can also create load. Something that seems like background information to one person may be very noticeable to another. We can value precision while considering what the environment asks of the student.\n\nOn page five, Strengths I can see, choose one strength you've actually observed in each student. Where or when does it show up? Pause if you'd like time to record it.",
       "post_pause_seconds": 8,
       "screen_cue": "Participant Guide p. 5. Note a strength you have seen.",
-      "source_note": "Secondary Education Online Session 1, slide 13; corresponding speaker notes and Facilitator Guide p. 20. Participant Guide p. 5. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted. Individual variability retained; source bottom-up framework is explained without asserting one universal brain architecture.",
-      "spoken_text_sha256": "26ebf16422f3d5a0f5e4ea7dabb027396da5a9b1f4ca2302bea582d451c9ca47"
+      "source_note": "Secondary Education Online Session 1, slide 14; corresponding speaker notes and Facilitator Guide p. 20. Participant Guide p. 5. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted. Individual variability retained; source bottom-up framework is explained without asserting one universal brain architecture.",
+      "spoken_text_sha256": "26ebf16422f3d5a0f5e4ea7dabb027396da5a9b1f4ca2302bea582d451c9ca47",
+      "source_timing": {
+        "suggested_minutes": 3.0,
+        "session_minute_start": 38,
+        "session_minute_end": 41,
+        "exact_source_timing": "SUGGESTED TIME: 3 min  ·  minutes 38 - 41  ·  Participant Guide - Strengths I can see",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 14,
+        "slide_part": "ppt/slides/slide13.xml",
+        "notes_part": "ppt/notesSlides/notesSlide12.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 14
+      }
     },
     {
       "id": "s01_sl13_b",
-      "slide": 13,
+      "slide": 14,
       "kind": "narration",
       "spoken_text": "As you review those notes, check that the strength is described in its own right. It is something present now that an educator can recognise and build on. Where you don't yet have an example, keep that space open for further listening and observation.",
       "post_pause_seconds": 1.5,
       "screen_cue": null,
-      "source_note": "Secondary Education Online Session 1, slide 13; corresponding speaker notes and Facilitator Guide p. 20. Participant Guide p. 5. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
-      "spoken_text_sha256": "d3eff1b886ad69ae6b32489871716c29b5fd5df4c4178c5c65bc5c89f4749cb8"
+      "source_note": "Secondary Education Online Session 1, slide 14; corresponding speaker notes and Facilitator Guide p. 20. Participant Guide p. 5. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "d3eff1b886ad69ae6b32489871716c29b5fd5df4c4178c5c65bc5c89f4749cb8",
+      "source_timing": {
+        "suggested_minutes": 3.0,
+        "session_minute_start": 38,
+        "session_minute_end": 41,
+        "exact_source_timing": "SUGGESTED TIME: 3 min  ·  minutes 38 - 41  ·  Participant Guide - Strengths I can see",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 14,
+        "slide_part": "ppt/slides/slide13.xml",
+        "notes_part": "ppt/notesSlides/notesSlide12.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 14
+      }
     },
     {
       "id": "s01_sl14_a",
-      "slide": 14,
+      "slide": 15,
       "kind": "narration",
       "spoken_text": "Now consider where attention goes. The torch and floodlight on the slide show two ways attention can spread. A floodlight covers a wider area. A torch concentrates light more deeply in one place.\n\nMonotropism is a framework for understanding attention that channels into fewer things with greater depth. Developed by Dinah Murray, Mike Lesser and Wenn Lawson, it helps us consider deep interests, transitions and the experience of flow. It is a lens for inquiry, with individual differences still in view.\n\nThink of a student absorbed in coding, a design project, writing, or a topic they love. Their attention is invested there. When the bell goes, stopping and moving to another subject can ask a great deal. A warning, a clear place to stop, and support for the transition may make that shift more manageable.\n\nDeep interests can give access to learning, memory and joy. Full absorption can be a valuable experience. Alongside helping students change activities when needed, we can look for opportunities to protect that depth of engagement.",
       "post_pause_seconds": 1.5,
       "screen_cue": null,
-      "source_note": "Secondary Education Online Session 1, slide 14; corresponding speaker notes and Facilitator Guide p. 21. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
-      "spoken_text_sha256": "f1a4ca79f26015c09363809d0bed3bf622a698b2eeb6a2e8389fa7bf443ad11b"
+      "source_note": "Secondary Education Online Session 1, slide 15; corresponding speaker notes and Facilitator Guide p. 21. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "f1a4ca79f26015c09363809d0bed3bf622a698b2eeb6a2e8389fa7bf443ad11b",
+      "source_timing": {
+        "suggested_minutes": 3.0,
+        "session_minute_start": 41,
+        "session_minute_end": 44,
+        "exact_source_timing": "SUGGESTED TIME: 3 min  ·  minutes 41 - 44",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 15,
+        "slide_part": "ppt/slides/slide14.xml",
+        "notes_part": "ppt/notesSlides/notesSlide13.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 15
+      }
     },
     {
       "id": "s01_sl15_a",
-      "slide": 15,
+      "slide": 16,
       "kind": "narration",
       "spoken_text": "Executive functioning gives us language for the demands within a task. Planning is working out the steps. Organisation concerns the materials and information needed. Time management includes judging and using the time available. Working memory helps us hold information while we use it. Meta-cognition means thinking about our own thinking.\n\nThe other areas on the slide are emotional regulation, flexibility, attention, task initiation and persistence. They include managing feelings, adapting when something changes, directing attention, getting started and continuing with a task.\n\nConsider an assessment handed out in the last period. The subject knowledge is only part of what it asks. A student also needs to understand the instructions, organise materials, decide where to begin, plan work over time, and remember how to submit it.\n\nThese terms are lenses for inquiry. They don't tell us why a particular student is struggling. Ask which demand needs support. Written steps, a visible first action or a clearer schedule may be useful possibilities to investigate, depending on the student and the task.",
       "post_pause_seconds": 1.5,
       "screen_cue": null,
-      "source_note": "Secondary Education Online Session 1, slide 15; corresponding speaker notes and Facilitator Guide p. 22. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
-      "spoken_text_sha256": "f25c1a5754ccbca1890b2ce92758f604811d0d79ca2dff518099d961e5df4a7f"
+      "source_note": "Secondary Education Online Session 1, slide 16; corresponding speaker notes and Facilitator Guide p. 22. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "f25c1a5754ccbca1890b2ce92758f604811d0d79ca2dff518099d961e5df4a7f",
+      "source_timing": {
+        "suggested_minutes": 2.0,
+        "session_minute_start": 44,
+        "session_minute_end": 46,
+        "exact_source_timing": "SUGGESTED TIME: 2 min  ·  minutes 44 - 46",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 16,
+        "slide_part": "ppt/slides/slide15.xml",
+        "notes_part": "ppt/notesSlides/notesSlide14.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 16
+      }
     },
     {
       "id": "s01_sl16_a",
-      "slide": 16,
+      "slide": 17,
       "kind": "narration",
       "spoken_text": "Let's return to interoception, our awareness and understanding of internal body signals. Those signals can include temperature, hunger, thirst and needing the bathroom. They help us make sense of how we're doing inside.\n\nAlexithymia means difficulty identifying and describing emotions and feelings. A person might find it hard to distinguish excitement from anxiety, or to find words for what they feel. The questions on the slide remind us that an outward sign doesn't always tell us the inner experience. Crying, for example, does not give us a complete explanation of someone's feelings.\n\nIn school, we might ask how a student can communicate a need or access a break when a signal is unclear or hard to describe. We shouldn't assume that appearing calm means feeling comfortable, or that a student can always explain a feeling on demand. Keep listening, allow time and stay curious about what we cannot see.",
       "post_pause_seconds": 1.5,
       "screen_cue": null,
-      "source_note": "Secondary Education Online Session 1, slide 16; corresponding speaker notes and Facilitator Guide p. 23. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
-      "spoken_text_sha256": "67853aac24804b99f5d5350b6fb9a3efe84199fafabba8a49253adc4326ace52"
+      "source_note": "Secondary Education Online Session 1, slide 17; corresponding speaker notes and Facilitator Guide p. 23. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "67853aac24804b99f5d5350b6fb9a3efe84199fafabba8a49253adc4326ace52",
+      "source_timing": {
+        "suggested_minutes": 2.0,
+        "session_minute_start": 46,
+        "session_minute_end": 48,
+        "exact_source_timing": "SUGGESTED TIME: 2 min  ·  minutes 46 - 48",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 17,
+        "slide_part": "ppt/slides/slide16.xml",
+        "notes_part": "ppt/notesSlides/notesSlide15.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 17
+      }
     },
     {
       "id": "s01_sl17_a",
-      "slide": 17,
+      "slide": 18,
       "kind": "narration",
-      "spoken_text": "We're going to put that environment-first lens to work. On page five of your guide, choose one familiar routine in a class or across the school day. Moving between periods, entering a practical science lesson, changing for P E, or attending an assembly could be useful starting points.\n\nFirst, name the routine without identifying a student or school. Then list the sensory and task demands before listing any student responses. What is the environment asking someone to manage?\n\nNext, add possible options that might increase access or choice. Include how a student could communicate what helps. Finally, turn each option into a question to explore. For example, could a clearer transition arrangement help here, and how would we find out with the student?\n\nWork privately, or pause and talk it through with a colleague if you're watching together. We are reviewing a routine, not trying to simulate another person's sensory experience. One grounded question is enough. Pause the video for a few minutes, then return for the debrief.",
+      "spoken_text": "We're going to put that environment-first lens to work. On page five of your guide, choose one familiar routine in a class or across the school day. Moving between periods, entering a practical science lesson, changing for P E, or attending an assembly could be useful starting points.\n\nFirst, name the routine without identifying a student or school. Then list the sensory and task demands before listing any student responses. What is the environment asking someone to manage?\n\nNext, add possible options that might increase access or choice. Include how a student could communicate what helps. Finally, turn each option into a question to explore. For example, could a clearer transition arrangement help here, and how would we find out with the student?\n\nWork privately, or pause and talk it through with a colleague if you're watching together. We are reviewing a routine, not trying to simulate another person's sensory experience. One grounded question is enough. The workshop allows ten minutes for this activity, including two minutes for the debrief. Take a minute to choose your routine, then use around seven minutes to explore it, privately or with colleagues. Pause here while you work, then return for the debrief.",
       "post_pause_seconds": 8,
-      "screen_cue": "Participant Guide p. 5. Pause to review one routine.",
-      "source_note": "Secondary Education Online Session 1, slide 17; corresponding speaker notes and Facilitator Guide p. 24. Participant Guide p. 5. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
-      "spoken_text_sha256": "ae2abe1622f005f88f86e38125163f307dcfd183ad8dc84f5f603a0c8d593f1a"
+      "screen_cue": "Allow 10 minutes overall: 8 minutes to choose and explore, then 2 minutes to debrief. Pause the video while you work.",
+      "source_note": "Secondary Education Online Session 1, updated slide 18 and speaker notes. Source timing is 10 minutes total, minutes48 to58, including 2 minutes to debrief. Recorded activity keeps the established eight-second pause. Original audience-specific setup preserved with revised timing and pause prompt. The source breakout working/transition time is adapted to private reflection or optional conversation with colleagues. Participant Guide p.5. No live breakout operation or participant answer asserted.",
+      "spoken_text_sha256": "1caca3c93688abe2572a46eef77483e79c8f6b819c73e7c8f3f9e4e1c8e633c9",
+      "source_timing": {
+        "suggested_minutes": 10.0,
+        "session_minute_start": 48,
+        "session_minute_end": 58,
+        "exact_source_timing": "SUGGESTED TIME: 10 min  ·  minutes 48 - 58  ·  Participant Guide - Sensory activity",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration.",
+        "activity_total_minutes": 10,
+        "debrief_minutes_included": 2,
+        "working_and_transition_minutes": 8
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 18,
+        "slide_part": "ppt/slides/slide17.xml",
+        "notes_part": "ppt/notesSlides/notesSlide16.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 18
+      }
     },
     {
       "id": "s01_sl17_b",
-      "slide": 17,
+      "slide": 18,
       "kind": "narration",
       "spoken_text": "Look back over your notes. Have you described demands in the environment and task, or have you slipped into describing a student as the problem? If you have an option in mind, whose knowledge will help you decide whether it fits?\n\nLighting, sound, movement, proximity and materials may all matter differently to different students. An option is still a question until you explore it in context. What could educators change, offer or investigate before increasing demands on the student? Keep that question with you as you return to school.",
       "post_pause_seconds": 1.5,
       "screen_cue": null,
-      "source_note": "Secondary Education Online Session 1, slide 17; corresponding speaker notes and Facilitator Guide p. 24. Participant Guide p. 5. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
-      "spoken_text_sha256": "66a05448c524deeb05b77dd70a70cc2b68fb8f8fd9b4774da1fa43b2f2604e66"
+      "source_note": "Secondary Education Online Session 1, slide 18; corresponding speaker notes and Facilitator Guide p. 24. Participant Guide p. 5. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "66a05448c524deeb05b77dd70a70cc2b68fb8f8fd9b4774da1fa43b2f2604e66",
+      "source_timing": {
+        "suggested_minutes": 10.0,
+        "session_minute_start": 48,
+        "session_minute_end": 58,
+        "exact_source_timing": "SUGGESTED TIME: 10 min  ·  minutes 48 - 58  ·  Participant Guide - Sensory activity",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration.",
+        "activity_total_minutes": 10,
+        "debrief_minutes_included": 2,
+        "working_and_transition_minutes": 8
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 18,
+        "slide_part": "ppt/slides/slide17.xml",
+        "notes_part": "ppt/notesSlides/notesSlide16.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 18
+      }
     },
     {
       "id": "s01_sl18_a",
-      "slide": 18,
+      "slide": 19,
       "kind": "narration",
       "spoken_text": "Before Session Two, there is a light noticing task on page six. Choose one familiar routine you're already part of. Notice what supports access, connection or joy for the students you have in mind. Notice what seems to add demand, and when. Then write down what you don't know yet as a question to explore.\n\nYou don't need to set up an extra activity or collect identifying information. Keep the notes brief and private. If you don't get a chance to do this, you can still take part fully in the next session.\n\nWe'll use those observations as we explore communication, connection and how demands build across a secondary school day, across subjects and teachers. Keep your guide handy, and come back to Session Two when you're ready. Thank you for the attention and thought you've brought to this first session.",
       "post_pause_seconds": 3,
       "screen_cue": null,
-      "source_note": "Secondary Education Online Session 1, slide 18; corresponding speaker notes and Facilitator Guide p. 25. Participant Guide p. 6. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
-      "spoken_text_sha256": "cc2c069850d60e30110212da0d3284c101a03eb6c6f8229f78736f35c67f1437"
+      "source_note": "Secondary Education Online Session 1, slide 19; corresponding speaker notes and Facilitator Guide p. 25. Participant Guide p. 6. Authored simulated delivery adapted to individual viewing or light online group participation. No actual participant response is asserted.",
+      "spoken_text_sha256": "cc2c069850d60e30110212da0d3284c101a03eb6c6f8229f78736f35c67f1437",
+      "source_timing": {
+        "suggested_minutes": 2.0,
+        "session_minute_start": 58,
+        "session_minute_end": 60,
+        "exact_source_timing": "SUGGESTED TIME: 2 min  ·  minutes 58 - 60  ·  Participant Guide - Before the next session",
+        "interpretation": "Planned live workshop timing, not the compressed recording duration."
+      },
+      "source_ref": {
+        "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+        "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+        "slide": 19,
+        "slide_part": "ppt/slides/slide18.xml",
+        "notes_part": "ppt/notesSlides/notesSlide18.xml",
+        "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+        "pdf_page": 19
+      }
     }
   ],
   "workshop": "Secondary Education Online",
-  "recording_note": "AI facilitator simulation using Steve Hogan. Four online sessions, optional participation and brief activity pauses. Original films retain their original audio."
+  "recording_note": "AI facilitator simulation using Steve Hogan. Four online sessions, optional participation and brief activity pauses. Original films retain their original audio.",
+  "source_slide_count": 19,
+  "source_revision": {
+    "date": "2026-09-28",
+    "reason": "DDA/DSE in Session1, updated online participation and sensory activity timings",
+    "source_pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+    "source_pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+    "source_pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+    "source_pdf_sha256": "dba86d0de754f5b2f1bca2d05340a0d2b8e201b998226341586ac9eac7394057",
+    "base_repo_head": "ca5f14b1eb8f3543be4d611f87598242e7f13f64",
+    "base_script_sha256": "49d8682478f88da97c36d2651bb3fe35973eadc5ca7c4f73ce097c99f08bea4a",
+    "changed_spoken_segment_ids": [
+      "s01_sl10_law_dda_dse",
+      "s01_sl17_a"
+    ],
+    "old_to_new_slide_map": {
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 11,
+      "11": 12,
+      "12": 13,
+      "13": 14,
+      "14": 15,
+      "15": 16,
+      "16": 17,
+      "17": 18,
+      "18": 19
+    },
+    "unchanged_narration_rule": "All unlisted spoken_text values remain byte-identical to the current maintained repository script. The null-slide reconciliation segment stays immediately after slide2."
+  },
+  "publication_note": "Public reference copy of the revised facilitation script. Private production paths are omitted. Source timings describe the live workshop; recorded activity pauses remain brief."
 }

@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-28",
+  "scope": "DDA/DSE coverage in Session1. Only affected sessions rebuilt from updated read-only masters; unchanged narration reused.",
+  "workshop": "Secondary Education Online",
+  "basis_commit": "ca5f14b1eb8f3543be4d611f87598242e7f13f64",
+  "source_sessions": [
+    {
+      "session": 1,
+      "pptx": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pptx",
+      "pptx_sha256": "6075cb826cddb7ff4f533b19f6b3ae8b4e975b82f3cd894643588d6159114b8a",
+      "pptx_bytes": 47510284,
+      "pdf": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking.pdf",
+      "pdf_sha256": "dba86d0de754f5b2f1bca2d05340a0d2b8e201b998226341586ac9eac7394057",
+      "pdf_bytes": 2483083,
+      "source_slides": 19
+    }
+  ],
+  "sessions": [
+    {
+      "number": 1,
+      "duration_seconds": 1361.92,
+      "source_slide_count": 19,
+      "full_sha256": "aed216082a9a4163ecf08cb8c94205164c9a869b2b451a3ea8585704f45b798b",
+      "web_sha256": "942640b3c81539c43811dc0f2cbabc871c686d9ffba9ccff5c56519aaf6aa094"
+    }
+  ],
+  "combined": {
+    "duration_seconds": 5287.32,
+    "sha256": "65ebdb77537097ce532f7d53263d7e9d57fd9a2cfd54a6fe1e2c3c6de3c2185d",
+    "unchanged_session_picture_data_preserved": true
+  },
+  "total_source_slides": 71,
+  "playback": "Same-site web media. Full-quality Release assets are download-only.",
+  "narration": "Steve Hogan; unaffected narration retained. New or changed narration uses verified source-aligned text.",
+  "notes": "Original earlier revision records are preserved as historical evidence."
+}

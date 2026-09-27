@@ -504,612 +504,784 @@ us something practical and important to
 examine.
 
 103
-00:10:31,200 --> 00:10:36,240
+00:10:31,200 --> 00:10:35,100
+That question about what can change around
+a student also connects with
+
+104
+00:10:35,100 --> 00:10:36,920
+what the law asks of schools.
+
+105
+00:10:36,920 --> 00:10:39,880
+There are three parts to the slide.
+
+106
+00:10:39,880 --> 00:10:43,060
+First, the Disability Discrimination Act
+
+107
+00:10:43,060 --> 00:10:48,300
+1992 makes it unlawful to treat a person
+unfairly because of disability,
+
+108
+00:10:48,300 --> 00:10:49,900
+including in education.
+
+109
+00:10:49,900 --> 00:10:55,350
+Second, the Disability Standards for
+Education 2005 explain the right
+
+110
+00:10:55,350 --> 00:10:59,270
+of students with disability to take part
+in education on the same basis
+
+111
+00:10:59,270 --> 00:11:00,300
+as other students.
+
+112
+00:11:01,140 --> 00:11:04,740
+On the same basis means having
+opportunities and choices comparable to
+
+113
+00:11:04,740 --> 00:11:06,700
+those available to other students.
+
+114
+00:11:06,700 --> 00:11:10,600
+Keep that idea beside the routine or
+environment you've been thinking
+
+115
+00:11:10,600 --> 00:11:11,080
+about.
+
+116
+00:11:11,080 --> 00:11:14,620
+The third part is what this asks of
+schools.
+
+117
+00:11:14,620 --> 00:11:18,640
+Consult the student, or an associate such
+as a parent or carer.
+
+118
+00:11:18,640 --> 00:11:20,600
+Make reasonable adjustments.
+
+119
+00:11:20,600 --> 00:11:23,280
+Prevent harassment and victimisation.
+
+120
+00:11:23,280 --> 00:11:28,020
+Every educator has a part in access,
+participation and inclusion.
+
+121
+00:11:28,820 --> 00:11:31,880
+As you listen, you might make a private
+note of one connection with
+
+122
+00:11:31,880 --> 00:11:32,560
+your work.
+
+123
+00:11:32,560 --> 00:11:36,660
+There is no need to share details about a
+particular student or school.
+
+124
+00:11:36,660 --> 00:11:40,860
+We will return to reasonable adjustments
+and consultation later in the
+
+125
+00:11:40,860 --> 00:11:44,400
+series, including our partnership work in
+Session Four.
+
+126
+00:11:44,400 --> 00:11:48,970
+For detailed or school-specific questions,
+speak with your principal or
+
+127
+00:11:48,970 --> 00:11:51,040
+the relevant system contact.
+
+128
+00:11:51,380 --> 00:11:55,500
+The Australian Government Department of
+Education's Disability
+
+129
+00:11:55,500 --> 00:11:58,940
+Standards for Education page is a place to
+read more.
+
+130
+00:11:58,940 --> 00:12:02,860
+Keep the link between our
+environment-first approach and these
+
+131
+00:12:02,860 --> 00:12:05,260
+obligations in view as we continue.
+
+132
+00:12:07,880 --> 00:12:12,920
 Autism can be understood as difference and
 dynamic disability. Access and
 
-104
-00:10:36,241 --> 00:10:41,631
+133
+00:12:12,921 --> 00:12:18,311
 support needs can change with the task,
 the environment, relationships and the
 
-105
-00:10:41,632 --> 00:10:47,022
+134
+00:12:18,312 --> 00:12:23,702
 capacity available at that moment. In
 secondary school, that may happen within
 
-106
-00:10:47,023 --> 00:10:52,763
+135
+00:12:23,703 --> 00:12:29,443
 a single day. A student might participate
 comfortably in one subject, then find the
 
-107
-00:10:52,764 --> 00:10:57,943
+136
+00:12:29,444 --> 00:12:34,623
 next period much harder. The room,
 teacher, instructions, pace and previous
 
-108
-00:10:57,944 --> 00:11:03,404
+137
+00:12:34,624 --> 00:12:40,084
 demands may all be different. Managing
 something yesterday doesn't tell us what
 
-109
-00:11:03,405 --> 00:11:08,725
+138
+00:12:40,085 --> 00:12:45,405
 support is needed today. So we keep our
 assumptions flexible. We ask what has
 
-110
-00:11:08,726 --> 00:11:14,256
+139
+00:12:45,406 --> 00:12:50,936
 changed, what the task requires, and what
 the student can tell us. Strengths and
 
-111
-00:11:14,257 --> 00:11:19,997
+140
+00:12:50,937 --> 00:12:56,677
 substantial support needs can both belong
 in the picture. Support should respond to
 
-112
-00:11:19,998 --> 00:11:25,388
+141
+00:12:56,678 --> 00:13:02,068
 the person and the situation, rather than
 to a fixed idea of what that student
 
-113
-00:11:25,389 --> 00:11:26,508
+142
+00:13:02,069 --> 00:13:03,188
 ought to manage.
 
-114
-00:11:28,040 --> 00:11:32,864
+143
+00:13:04,720 --> 00:13:09,544
 Many of us learnt about five senses:
 touch, vision, taste, hearing and smell.
 
-115
-00:11:32,865 --> 00:11:37,561
+144
+00:13:09,545 --> 00:13:14,241
 This workshop extends that picture to
 eight. Proprioception is our sense of
 
-116
-00:11:37,562 --> 00:11:42,576
+145
+00:13:14,242 --> 00:13:19,256
 where the body is in space. It involves
 information from our muscles and joints.
 
-117
-00:11:42,577 --> 00:11:47,528
+146
+00:13:19,257 --> 00:13:24,208
 Think about knowing where your feet are as
 you move through a busy room, or how
 
-118
-00:11:47,529 --> 00:11:52,225
+147
+00:13:24,209 --> 00:13:28,905
 much pressure to use when carrying
 equipment. The vestibular sense concerns
 
-119
-00:11:52,226 --> 00:11:57,240
+148
+00:13:28,906 --> 00:13:33,920
 balance and movement. Moving on stairs,
 changing direction in a game, rocking in
 
-120
-00:11:57,241 --> 00:12:01,747
+149
+00:13:33,921 --> 00:13:38,427
 a chair, or being still after movement can
 involve this sense. Different
 
-121
-00:12:01,748 --> 00:12:06,508
+150
+00:13:38,428 --> 00:13:43,188
 students may seek or avoid different kinds
 of movement. Interoception is our
 
-122
-00:12:06,509 --> 00:12:11,142
+151
+00:13:43,189 --> 00:13:47,822
 sense of signals from inside the body.
 We'll return to it shortly, when we
 
-123
-00:12:11,143 --> 00:12:15,523
+152
+00:13:47,823 --> 00:13:52,203
 consider hunger, thirst and feelings.
 Across a school day, senses work
 
-124
-00:12:15,524 --> 00:12:20,093
+153
+00:13:52,204 --> 00:13:56,773
 together. A science laboratory, the
 canteen, a music room and the bus bay
 
-125
-00:12:20,094 --> 00:12:24,918
+154
+00:13:56,774 --> 00:14:01,598
 offer quite different experiences. Keep
 the question open: what is this place
 
-126
-00:12:24,919 --> 00:12:27,203
+155
+00:14:01,599 --> 00:14:03,883
 like for this student, at this time?
 
-127
-00:12:28,720 --> 00:12:33,571
+156
+00:14:05,400 --> 00:14:10,251
 Sensory experience includes pleasure,
 connection and regulation, as well as
 
-128
-00:12:33,572 --> 00:12:38,357
+157
+00:14:10,252 --> 00:14:15,037
 discomfort or overload. We need both parts
 in view. Notice sensory joy. It
 
-129
-00:12:38,358 --> 00:12:43,603
+158
+00:14:15,038 --> 00:14:20,283
 might be a sound, a texture, a movement or
 another experience the student values.
 
-130
-00:12:43,604 --> 00:12:48,455
+159
+00:14:20,284 --> 00:14:25,135
 Stimming can also be part of pleasure,
 regulation and authentic expression.
 
-131
-00:12:48,456 --> 00:12:53,176
+160
+00:14:25,136 --> 00:14:29,856
 Harmless stimming does not need to be
 discouraged simply because it looks
 
-132
-00:12:53,177 --> 00:12:57,962
+161
+00:14:29,857 --> 00:14:34,642
 different. Think about where you see
 enjoyment in the students you have in
 
-133
-00:12:57,963 --> 00:13:03,207
+162
+00:14:34,643 --> 00:14:39,887
 mind. If you aren't sure what an action
 means for someone, that's a reason to ask
 
-134
-00:13:03,208 --> 00:13:08,322
+163
+00:14:39,888 --> 00:14:45,002
 in a way they can use. Avoid treating
 difference as disruption by default. What
 
-135
-00:13:08,323 --> 00:13:12,977
+164
+00:14:45,003 --> 00:14:49,657
 would the student want other people to
 understand about that experience?
 
-136
-00:13:14,480 --> 00:13:19,105
+165
+00:14:51,160 --> 00:14:55,785
 This slide introduces detail-first
 thinking, sometimes described as
 
-137
-00:13:19,106 --> 00:13:24,642
+166
+00:14:55,786 --> 00:15:01,322
 bottom-up processing. The image builds a
 whole scene from individual details. It
 
-138
-00:13:24,643 --> 00:13:30,250
+167
+00:15:01,323 --> 00:15:06,930
 offers a way to think about how someone
 may notice specifics and build the bigger
 
-139
-00:13:30,251 --> 00:13:35,296
+168
+00:15:06,931 --> 00:15:11,976
 picture from them. That can help us notice
 genuine strengths: recognising
 
-140
-00:13:35,297 --> 00:13:39,432
+169
+00:15:11,977 --> 00:15:16,112
 patterns, remembering detail,
 understanding systems, finding
 
-141
-00:13:39,433 --> 00:13:44,128
+170
+00:15:16,113 --> 00:15:20,808
 inconsistencies, or engaging with a
 subject very deeply. Honesty and
 
-142
-00:13:44,129 --> 00:13:49,735
+171
+00:15:20,809 --> 00:15:26,415
 directness, logical precision and depth of
 connection may also be important parts
 
-143
-00:13:49,736 --> 00:13:54,992
+172
+00:15:26,416 --> 00:15:31,672
 of a student's experience. These are
 possibilities to notice in individuals,
 
-144
-00:13:54,993 --> 00:14:00,319
+173
+00:15:31,673 --> 00:15:36,999
 rather than a checklist every Autistic
 student must match. A fuller intake of
 
-145
-00:14:00,320 --> 00:14:05,856
+174
+00:15:37,000 --> 00:15:42,536
 detail can also create load. Something
 that seems like background information to
 
-146
-00:14:05,857 --> 00:14:10,973
+175
+00:15:42,537 --> 00:15:47,653
 one person may be very noticeable to
 another. We can value precision while
 
-147
-00:14:10,974 --> 00:14:16,440
+176
+00:15:47,654 --> 00:15:53,120
 considering what the environment asks of
 the student. On page five, Strengths I
 
-148
-00:14:16,441 --> 00:14:21,697
+177
+00:15:53,121 --> 00:15:58,377
 can see, choose one strength you've
 actually observed in each student. Where
 
-149
-00:14:21,698 --> 00:14:26,042
+178
+00:15:58,378 --> 00:16:02,722
 or when does it show up? Pause if you'd
 like time to record it.
 
-150
-00:14:34,080 --> 00:14:38,780
+179
+00:16:10,760 --> 00:16:15,460
 As you review those notes, check that the
 strength is described in its own right.
 
-151
-00:14:38,781 --> 00:14:42,952
+180
+00:16:15,461 --> 00:16:19,632
 It is something present now that an
 educator can recognise and build on.
 
-152
-00:14:42,953 --> 00:14:47,770
+181
+00:16:19,633 --> 00:16:24,450
 Where you don't yet have an example, keep
 that space open for further listening and
 
-153
-00:14:47,771 --> 00:14:48,475
+182
+00:16:24,451 --> 00:16:25,155
 observation.
 
-154
-00:14:50,000 --> 00:14:55,022
+183
+00:16:26,680 --> 00:16:31,702
 Now consider where attention goes. The
 torch and floodlight on the slide show
 
-155
-00:14:55,023 --> 00:14:59,714
+184
+00:16:31,703 --> 00:16:36,394
 two ways attention can spread. A
 floodlight covers a wider area. A torch
 
-156
-00:14:59,715 --> 00:15:04,604
+185
+00:16:36,395 --> 00:16:41,284
 concentrates light more deeply in one
 place. Monotropism is a framework for
 
-157
-00:15:04,605 --> 00:15:09,495
+186
+00:16:41,285 --> 00:16:46,175
 understanding attention that channels into
 fewer things with greater depth.
 
-158
-00:15:09,496 --> 00:15:14,451
+187
+00:16:46,176 --> 00:16:51,131
 Developed by Dinah Murray, Mike Lesser and
 Wenn Lawson, it helps us consider
 
-159
-00:15:14,452 --> 00:15:19,144
+188
+00:16:51,132 --> 00:16:55,824
 deep interests, transitions and the
 experience of flow. It is a lens for
 
-160
-00:15:19,145 --> 00:15:23,704
+189
+00:16:55,825 --> 00:17:00,384
 inquiry, with individual differences still
 in view. Think of a student
 
-161
-00:15:23,705 --> 00:15:28,528
+190
+00:17:00,385 --> 00:17:05,208
 absorbed in coding, a design project,
 writing, or a topic they love. Their
 
-162
-00:15:28,529 --> 00:15:33,683
+191
+00:17:05,209 --> 00:17:10,363
 attention is invested there. When the bell
 goes, stopping and moving to another
 
-163
-00:15:33,684 --> 00:15:38,838
+192
+00:17:10,364 --> 00:17:15,518
 subject can ask a great deal. A warning, a
 clear place to stop, and support for
 
-164
-00:15:38,839 --> 00:15:43,728
+193
+00:17:15,519 --> 00:17:20,408
 the transition may make that shift more
 manageable. Deep interests can give
 
-165
-00:15:43,729 --> 00:15:49,015
+194
+00:17:20,409 --> 00:17:25,695
 access to learning, memory and joy. Full
 absorption can be a valuable experience.
 
-166
-00:15:49,016 --> 00:15:53,774
+195
+00:17:25,696 --> 00:17:30,454
 Alongside helping students change
 activities when needed, we can look for
 
-167
-00:15:53,775 --> 00:15:57,011
+196
+00:17:30,455 --> 00:17:33,691
 opportunities to protect that depth of
 engagement.
 
-168
-00:15:58,520 --> 00:16:03,737
+197
+00:17:35,200 --> 00:17:40,417
 Executive functioning gives us language
 for the demands within a task. Planning
 
-169
-00:16:03,738 --> 00:16:08,822
+198
+00:17:40,418 --> 00:17:45,502
 is working out the steps. Organisation
 concerns the materials and information
 
-170
-00:16:08,823 --> 00:16:13,974
+199
+00:17:45,503 --> 00:17:50,654
 needed. Time management includes judging
 and using the time available. Working
 
-171
-00:16:13,975 --> 00:16:19,192
+200
+00:17:50,655 --> 00:17:55,872
 memory helps us hold information while we
 use it. Meta-cognition means thinking
 
-172
-00:16:19,193 --> 00:16:24,344
+201
+00:17:55,873 --> 00:18:01,024
 about our own thinking. The other areas on
 the slide are emotional regulation,
 
-173
-00:16:24,345 --> 00:16:29,495
+202
+00:18:01,025 --> 00:18:06,175
 flexibility, attention, task initiation
 and persistence. They include managing
 
-174
-00:16:29,496 --> 00:16:34,179
+203
+00:18:06,176 --> 00:18:10,859
 feelings, adapting when something changes,
 directing attention, getting
 
-175
-00:16:34,180 --> 00:16:39,196
+204
+00:18:10,860 --> 00:18:15,876
 started and continuing with a task.
 Consider an assessment handed out in the
 
-176
-00:16:39,197 --> 00:16:44,415
+205
+00:18:15,877 --> 00:18:21,095
 last period. The subject knowledge is only
 part of what it asks. A student also
 
-177
-00:16:44,416 --> 00:16:49,232
+206
+00:18:21,096 --> 00:18:25,912
 needs to understand the instructions,
 organise materials, decide where to
 
-178
-00:16:49,233 --> 00:16:54,584
+207
+00:18:25,913 --> 00:18:31,264
 begin, plan work over time, and remember
 how to submit it. These terms are lenses
 
-179
-00:16:54,585 --> 00:16:59,535
+208
+00:18:31,265 --> 00:18:36,215
 for inquiry. They don't tell us why a
 particular student is struggling. Ask
 
-180
-00:16:59,536 --> 00:17:04,151
+209
+00:18:36,216 --> 00:18:40,831
 which demand needs support. Written steps,
 a visible first action or a
 
-181
-00:17:04,152 --> 00:17:08,768
+210
+00:18:40,832 --> 00:18:45,448
 clearer schedule may be useful
 possibilities to investigate, depending
 
-182
-00:17:08,769 --> 00:17:10,640
+211
+00:18:45,449 --> 00:18:47,320
 on the student and the task.
 
-183
-00:17:12,160 --> 00:17:16,604
+212
+00:18:48,840 --> 00:18:53,284
 Let's return to interoception, our
 awareness and understanding of internal
 
-184
-00:17:16,605 --> 00:17:21,353
+213
+00:18:53,285 --> 00:18:58,033
 body signals. Those signals can include
 temperature, hunger, thirst and needing
 
-185
-00:17:21,354 --> 00:17:26,285
+214
+00:18:58,034 --> 00:19:02,965
 the bathroom. They help us make sense of
 how we're doing inside. Alexithymia means
 
-186
-00:17:26,286 --> 00:17:30,791
+215
+00:19:02,966 --> 00:19:07,471
 difficulty identifying and describing
 emotions and feelings. A person might
 
-187
-00:17:30,792 --> 00:17:35,480
+216
+00:19:07,472 --> 00:19:12,160
 find it hard to distinguish excitement
 from anxiety, or to find words for what
 
-188
-00:17:35,481 --> 00:17:40,046
+217
+00:19:12,161 --> 00:19:16,726
 they feel. The questions on the slide
 remind us that an outward sign doesn't
 
-189
-00:17:40,047 --> 00:17:44,613
+218
+00:19:16,727 --> 00:19:21,293
 always tell us the inner experience.
 Crying, for example, does not give us a
 
-190
-00:17:44,614 --> 00:17:48,997
+219
+00:19:21,294 --> 00:19:25,677
 complete explanation of someone's
 feelings. In school, we might ask how a
 
-191
-00:17:48,998 --> 00:17:53,868
+220
+00:19:25,678 --> 00:19:30,548
 student can communicate a need or access a
 break when a signal is unclear or hard
 
-192
-00:17:53,869 --> 00:17:58,618
+221
+00:19:30,549 --> 00:19:35,298
 to describe. We shouldn't assume that
 appearing calm means feeling comfortable,
 
-193
-00:17:58,619 --> 00:18:03,367
+222
+00:19:35,299 --> 00:19:40,047
 or that a student can always explain a
 feeling on demand. Keep listening, allow
 
-194
-00:18:03,368 --> 00:18:06,168
+223
+00:19:40,048 --> 00:19:42,848
 time and stay curious about what we cannot
 see.
 
-195
-00:18:07,680 --> 00:18:13,024
+224
+00:19:44,360 --> 00:19:46,860
 We're going to put that environment-first
-lens to work. On page five of your guide,
+lens to work.
 
-196
-00:18:13,025 --> 00:18:18,108
-choose one familiar routine in a class or
-across the school day. Moving between
+225
+00:19:46,860 --> 00:19:52,070
+On page five of your guide, choose one
+familiar routine in a class or
 
-197
-00:18:18,109 --> 00:18:23,192
-periods, entering a practical science
-lesson, changing for P E, or attending an
+226
+00:19:52,070 --> 00:19:53,080
+across the school day.
 
-198
-00:18:23,193 --> 00:18:27,885
-assembly could be useful starting points.
+227
+00:19:53,080 --> 00:19:57,880
+Moving between periods, entering a
+practical science lesson, changing
+
+228
+00:19:57,880 --> 00:20:01,960
+for P E, or attending an assembly could be
+useful starting points.
+
+229
+00:20:01,960 --> 00:20:06,420
 First, name the routine without
+identifying a student or school. Then
 
-199
-00:18:27,886 --> 00:18:32,904
-identifying a student or school. Then list
-the sensory and task demands before
+230
+00:20:06,420 --> 00:20:10,660
+list the sensory and task demands before
+listing any student responses.
 
-200
-00:18:32,905 --> 00:18:38,054
-listing any student responses. What is the
-environment asking someone to manage?
+231
+00:20:10,660 --> 00:20:14,140
+What is the environment asking someone to
+manage?
 
-201
-00:18:38,055 --> 00:18:43,073
+232
+00:20:15,060 --> 00:20:18,680
 Next, add possible options that might
-increase access or choice. Include how a
+increase access or choice.
 
-202
-00:18:43,074 --> 00:18:48,157
-student could communicate what helps.
+233
+00:20:18,680 --> 00:20:22,080
+Include how a student could communicate
+what helps.
+
+234
+00:20:22,080 --> 00:20:25,260
 Finally, turn each option into a question
+to explore.
 
-203
-00:18:48,158 --> 00:18:53,437
-to explore. For example, could a clearer
-transition arrangement help here, and how
+235
+00:20:25,260 --> 00:20:29,560
+For example, could a clearer transition
+arrangement help here,
 
-204
-00:18:53,438 --> 00:18:58,586
-would we find out with the student? Work
-privately, or pause and talk it through
+236
+00:20:29,560 --> 00:20:32,840
+and how would we find out with the
+student? Work privately, or pause and
 
-205
-00:18:58,587 --> 00:19:03,540
-with a colleague if you're watching
-together. We are reviewing a routine, not
+237
+00:20:32,840 --> 00:20:36,200
+talk it through with a colleague if you're
+watching together.
 
-206
-00:19:03,541 --> 00:19:08,494
-trying to simulate another person's
-sensory experience. One grounded question
+238
+00:20:36,200 --> 00:20:40,940
+We are reviewing a routine, not trying to
+simulate another person's
 
-207
-00:19:08,495 --> 00:19:13,252
-is enough. Pause the video for a few
-minutes, then return for the debrief.
+239
+00:20:40,940 --> 00:20:42,680
+sensory experience.
 
-208
-00:19:21,280 --> 00:19:26,493
+240
+00:20:43,520 --> 00:20:45,220
+One grounded question is enough.
+
+241
+00:20:45,220 --> 00:20:48,450
+The workshop allows ten minutes for this
+activity, including two
+
+242
+00:20:48,450 --> 00:20:49,860
+minutes for the debrief.
+
+243
+00:20:49,860 --> 00:20:54,020
+Take a minute to choose your routine, then
+use around seven minutes to
+
+244
+00:20:54,020 --> 00:20:56,540
+explore it, privately or with colleagues.
+
+245
+00:20:56,540 --> 00:21:00,380
+Pause here while you work, then return for
+the debrief.
+
+246
+00:21:09,160 --> 00:21:14,373
 Look back over your notes. Have you
 described demands in the environment and
 
-209
-00:19:26,494 --> 00:19:32,125
+247
+00:21:14,374 --> 00:21:20,005
 task, or have you slipped into describing
 a student as the problem? If you have an
 
-210
-00:19:32,126 --> 00:19:37,548
+248
+00:21:20,006 --> 00:21:25,428
 option in mind, whose knowledge will help
 you decide whether it fits? Lighting,
 
-211
-00:19:37,549 --> 00:19:43,041
+249
+00:21:25,429 --> 00:21:30,921
 sound, movement, proximity and materials
 may all matter differently to different
 
-212
-00:19:43,042 --> 00:19:48,325
+250
+00:21:30,922 --> 00:21:36,205
 students. An option is still a question
 until you explore it in context. What
 
-213
-00:19:48,326 --> 00:19:53,330
+251
+00:21:36,206 --> 00:21:41,210
 could educators change, offer or
 investigate before increasing demands on
 
-214
-00:19:53,331 --> 00:19:57,780
+252
+00:21:41,211 --> 00:21:45,660
 the student? Keep that question with you
 as you return to school.
 
-215
-00:19:59,320 --> 00:20:04,101
+253
+00:21:47,200 --> 00:21:51,981
 Before Session Two, there is a light
 noticing task on page six. Choose one
 
-216
-00:20:04,102 --> 00:20:09,276
+254
+00:21:51,982 --> 00:21:57,156
 familiar routine you're already part of.
 Notice what supports access, connection
 
-217
-00:20:09,277 --> 00:20:14,321
+255
+00:21:57,157 --> 00:22:02,201
 or joy for the students you have in mind.
 Notice what seems to add demand, and
 
-218
-00:20:14,322 --> 00:20:19,561
+256
+00:22:02,202 --> 00:22:07,441
 when. Then write down what you don't know
 yet as a question to explore. You don't
 
-219
-00:20:19,562 --> 00:20:24,540
+257
+00:22:07,442 --> 00:22:12,420
 need to set up an extra activity or
 collect identifying information. Keep the
 
-220
-00:20:24,541 --> 00:20:29,781
+258
+00:22:12,421 --> 00:22:17,661
 notes brief and private. If you don't get
 a chance to do this, you can still take
 
-221
-00:20:29,782 --> 00:20:34,563
+259
+00:22:17,662 --> 00:22:22,443
 part fully in the next session. We'll use
 those observations as we explore
 
-222
-00:20:34,564 --> 00:20:39,607
+260
+00:22:22,444 --> 00:22:27,487
 communication, connection and how demands
 build across a secondary school day,
 
-223
-00:20:39,608 --> 00:20:44,848
+261
+00:22:27,488 --> 00:22:32,728
 across subjects and teachers. Keep your
 guide handy, and come back to Session Two
 
-224
-00:20:44,849 --> 00:20:49,761
+262
+00:22:32,729 --> 00:22:37,641
 when you're ready. Thank you for the
 attention and thought you've brought to
 
-225
-00:20:49,762 --> 00:20:51,006
+263
+00:22:37,642 --> 00:22:38,886
 this first session.
-
