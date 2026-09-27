@@ -1,0 +1,120 @@
+{
+  "updated": "2026-09-27",
+  "scope": "Supplied slide visual replacements in session videos, complete workshop download and published slide PDFs. Audio, captions, timings and source editable decks are unchanged.",
+  "basis_commit": "d2ee74acf6e77262e6532449ec4e291a7235884a",
+  "replacements": [
+    {
+      "session": 2,
+      "slide": 18,
+      "title": "Positive Autistic Identity",
+      "requested_start": 1457,
+      "requested_end": 1537,
+      "start": 1457.12,
+      "end": 1537.56,
+      "png_sha256": "b733304edaebde663f1bdef6d700ccf6e4682ef8066ad637989e50cd276602af",
+      "chapter_title": "Positive Autistic Identity",
+      "site_image": "assets/slide-updates/session-2-slide-18.png",
+      "pdf": "Original Assets/PL Secondary Online - Session 2 - Communication, Connection and Daily Capacity.pdf"
+    },
+    {
+      "session": 4,
+      "slide": 15,
+      "title": "Connections that continue",
+      "requested_start": 1130,
+      "requested_end": 1186,
+      "start": 1130.84,
+      "end": 1186.68,
+      "png_sha256": "bc3862616112bccf49541a2538b9b6ce55f5a3b780b83f12e595f59b322df64c",
+      "chapter_title": "Connections that continue",
+      "site_image": "assets/slide-updates/session-4-slide-15.png",
+      "pdf": "Original Assets/PL Secondary Online - Session 4 - Working in Partnership with Students and Families.pdf"
+    },
+    {
+      "session": 4,
+      "slide": 16,
+      "title": "Feedback",
+      "requested_start": 1186,
+      "requested_end": 1238,
+      "start": 1186.68,
+      "end": 1238.16,
+      "png_sha256": "869a2d1d070d5d6a9dc4328214a6cccb5efd05b489be1b8f128490e68e9ba84b",
+      "chapter_title": "Feedback",
+      "site_image": "assets/slide-updates/session-4-slide-16.png",
+      "pdf": "Original Assets/PL Secondary Online - Session 4 - Working in Partnership with Students and Families.pdf"
+    }
+  ],
+  "files": {
+    "media/session-2.mp4": {
+      "bytes": 79184835,
+      "sha256": "9bb4c20c1f47d36622a03c9bc61f6034f79fa5566d35ba5afe9ca1fbd258eea7"
+    },
+    "Original Assets/PL Secondary Online - Session 2 - Communication, Connection and Daily Capacity.pdf": {
+      "bytes": 6838623,
+      "sha256": "c3e58073098a3010a12a0ca5ff96df58a5c50e963dbb1ac0e4655c193c6509a3"
+    },
+    "assets/slide-updates/session-2-slide-18.png": {
+      "bytes": 306570,
+      "sha256": "b733304edaebde663f1bdef6d700ccf6e4682ef8066ad637989e50cd276602af"
+    },
+    "assets/positive-autistic-identity.png": {
+      "bytes": 306570,
+      "sha256": "b733304edaebde663f1bdef6d700ccf6e4682ef8066ad637989e50cd276602af"
+    },
+    "media/session-4.mp4": {
+      "bytes": 34973629,
+      "sha256": "221663ad0a492d8956a394893b143d2d0473e5c2282b24abe6442a54e12afaba"
+    },
+    "Original Assets/PL Secondary Online - Session 4 - Working in Partnership with Students and Families.pdf": {
+      "bytes": 1792735,
+      "sha256": "2b26b828be6b96ae7d7a692186eb1b4baf8d7d5fb37210c971cb5b35c5665efc"
+    },
+    "assets/slide-updates/session-4-slide-15.png": {
+      "bytes": 109717,
+      "sha256": "bc3862616112bccf49541a2538b9b6ce55f5a3b780b83f12e595f59b322df64c"
+    },
+    "assets/slide-updates/session-4-slide-16.png": {
+      "bytes": 106711,
+      "sha256": "869a2d1d070d5d6a9dc4328214a6cccb5efd05b489be1b8f128490e68e9ba84b"
+    },
+    "asset-manifest.json": {
+      "bytes": 17011,
+      "sha256": "3dff7812edd942d2dd4bdcfb3ccfd331ffe27e411ccabdd5231ac9dc24cd2200"
+    },
+    "index.html": {
+      "bytes": 207448,
+      "sha256": "6bfcea6340470a6772b87359ad189657b7a9672d1dee4b2f421111a70c08dc4f"
+    },
+    "resources.html": {
+      "bytes": 23750,
+      "sha256": "a30982ee12123215040a4965407987c08ec3ab00edc889a8268a7953b0cd1d97"
+    },
+    "viewing-notes.html": {
+      "bytes": 21051,
+      "sha256": "a0068f0aa3bea19b34479122e038844e9680cc0c80ad9133ae76e4b92c5ebc88"
+    },
+    "Viewing notes.md": {
+      "bytes": 4775,
+      "sha256": "c50e0dbe971aaf603340a74032504607bd485ca72a15c8aacc50afd7219dd973"
+    }
+  },
+  "downloads": [
+    {
+      "url": "https://github.com/CraigWrenasmir/phase-5-secondary-education-online/releases/download/workshop-v1/secondary-online--session-02.mp4",
+      "sha256": "a288fbff8272e0c3a39017f527adee7b6550618505629a27ba2139621337ebed",
+      "bytes": 252927517,
+      "previous_sha256": "468d35b8245439bee01cdaddbbe771712dcebc714c18ad8e83f132b20c5822de"
+    },
+    {
+      "url": "https://github.com/CraigWrenasmir/phase-5-secondary-education-online/releases/download/workshop-v1/secondary-online--session-04.mp4",
+      "sha256": "7475b4d08814898af1b776ba308e522af9f565bccfe69c5f29843356285bb760",
+      "bytes": 107037231,
+      "previous_sha256": "a31fe269cdb6ba0ce98040f0b99efebaebddad7a3a702d40b73c62617905fa5d"
+    },
+    {
+      "url": "https://github.com/CraigWrenasmir/phase-5-secondary-education-online/releases/download/workshop-v1/secondary-online--full-workshop.mp4",
+      "sha256": "aeaac80c3ef77c49cf713d6e8b780fed8bc27dcb52474d1ae91a03eb07b87d1f",
+      "bytes": 573243300,
+      "previous_sha256": "c5c967e0692bc21364b341051cd24203710d3ece12700bd9f24c1347cd1d688c"
+    }
+  ]
+}

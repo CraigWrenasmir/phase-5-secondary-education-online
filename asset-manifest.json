@@ -60,8 +60,8 @@
       "category": "Slides",
       "url": "Original Assets/PL Secondary Online - Session 2 - Communication, Connection and Daily Capacity.pdf",
       "storage": "pages",
-      "bytes": 6714432,
-      "sha256": "c1499b181ccf334570a5214f65a14d6efda7d79b63aad890c88ba7eda9c3d650"
+      "bytes": 6838623,
+      "sha256": "c3e58073098a3010a12a0ca5ff96df58a5c50e963dbb1ac0e4655c193c6509a3"
     },
     {
       "label": "PL Secondary Online - Session 3 - Designing for Access Across Secondary School",
@@ -80,8 +80,8 @@
       "category": "Slides",
       "url": "Original Assets/PL Secondary Online - Session 4 - Working in Partnership with Students and Families.pdf",
       "storage": "pages",
-      "bytes": 1798520,
-      "sha256": "45555b7eca7f52874414c3f71238a29b94f2eafcc323e92fdeb29b4b777d707c"
+      "bytes": 1792735,
+      "sha256": "2b26b828be6b96ae7d7a692186eb1b4baf8d7d5fb37210c971cb5b35c5665efc"
     },
     {
       "label": "PL Secondary Online - Session 1 - Autism, Sensory and Ways of Thinking",
@@ -124,7 +124,7 @@
       "sha256": "1beae28801d71ec0f8372a1d383a46f814582ee0bbdb2f493afea7666e1d256f"
     },
     {
-      "label": "Session 1 · Autism, Sensory and Ways of Thinking",
+      "label": "Session 1 \u00b7 Autism, Sensory and Ways of Thinking",
       "filename": "Session 1 - Autism, Sensory and Ways of Thinking.mp4",
       "format": "mp4",
       "category": "Videos",
@@ -134,7 +134,7 @@
       "sha256": "1016ff3b32b1adec170e303067b159ade18543849a9b3103572730b6ca8b9361"
     },
     {
-      "label": "Session 1 · web playback",
+      "label": "Session 1 \u00b7 web playback",
       "filename": "session-1.mp4",
       "format": "mp4",
       "category": "Web playback",
@@ -144,7 +144,7 @@
       "sha256": "24984e29a95a2be2d7bfbee99ae1704ddc87fb5107e3ff27f589f15a239155ff"
     },
     {
-      "label": "Session 1 · Autism, Sensory and Ways of Thinking · structured script",
+      "label": "Session 1 \u00b7 Autism, Sensory and Ways of Thinking \u00b7 structured script",
       "filename": "session-1.json",
       "format": "json",
       "category": "Scripts",
@@ -154,7 +154,7 @@
       "sha256": "49d8682478f88da97c36d2651bb3fe35973eadc5ca7c4f73ce097c99f08bea4a"
     },
     {
-      "label": "Session 1 · Autism, Sensory and Ways of Thinking · readable script",
+      "label": "Session 1 \u00b7 Autism, Sensory and Ways of Thinking \u00b7 readable script",
       "filename": "session-1.md",
       "format": "md",
       "category": "Scripts",
@@ -164,7 +164,7 @@
       "sha256": "9684210d7e63f3328129d790d099747fa426eb0077e13d95ac0ab70571f901f8"
     },
     {
-      "label": "Session 1 · SRT",
+      "label": "Session 1 \u00b7 SRT",
       "filename": "Session 1 - Autism, Sensory and Ways of Thinking.srt",
       "format": "srt",
       "category": "Captions",
@@ -174,7 +174,7 @@
       "sha256": "4a108bc19466711df331d156fee8e384f037571ae1eedac7619ebfda9bd4c0a6"
     },
     {
-      "label": "Session 1 · VTT",
+      "label": "Session 1 \u00b7 VTT",
       "filename": "Session 1 - Autism, Sensory and Ways of Thinking.vtt",
       "format": "vtt",
       "category": "Captions",
@@ -184,27 +184,27 @@
       "sha256": "2476b08f69d0cbef16b7eb584788ebf2bdcf2304da6878154ac6bc3859a4a8c5"
     },
     {
-      "label": "Session 2 · Communication, Connection and Daily Capacity",
+      "label": "Session 2 \u00b7 Communication, Connection and Daily Capacity",
       "filename": "Session 2 - Communication, Connection and Daily Capacity.mp4",
       "format": "mp4",
       "category": "Videos",
       "url": "https://github.com/CraigWrenasmir/phase-5-secondary-education-online/releases/download/workshop-v1/secondary-online--session-02.mp4",
       "storage": "release",
-      "bytes": 252927497,
-      "sha256": "468d35b8245439bee01cdaddbbe771712dcebc714c18ad8e83f132b20c5822de"
+      "bytes": 252927517,
+      "sha256": "a288fbff8272e0c3a39017f527adee7b6550618505629a27ba2139621337ebed"
     },
     {
-      "label": "Session 2 · web playback",
+      "label": "Session 2 \u00b7 web playback",
       "filename": "session-2.mp4",
       "format": "mp4",
       "category": "Web playback",
       "url": "media/session-2.mp4",
       "storage": "pages",
-      "bytes": 79187050,
-      "sha256": "1c7e36eb412682b2d605f28f5fcec3adc709e685b8affec48a3f5560c64d3773"
+      "bytes": 79184835,
+      "sha256": "9bb4c20c1f47d36622a03c9bc61f6034f79fa5566d35ba5afe9ca1fbd258eea7"
     },
     {
-      "label": "Session 2 · Communication, Connection and Daily Capacity · structured script",
+      "label": "Session 2 \u00b7 Communication, Connection and Daily Capacity \u00b7 structured script",
       "filename": "session-2.json",
       "format": "json",
       "category": "Scripts",
@@ -214,7 +214,7 @@
       "sha256": "8c16f8e0d552348b788d37d8a1efc9a37c3cb6b379a5ecc6eab2de3ceec86f1d"
     },
     {
-      "label": "Session 2 · Communication, Connection and Daily Capacity · readable script",
+      "label": "Session 2 \u00b7 Communication, Connection and Daily Capacity \u00b7 readable script",
       "filename": "session-2.md",
       "format": "md",
       "category": "Scripts",
@@ -224,7 +224,7 @@
       "sha256": "f71a803ad22c8fd568bff84c9a53057388a730d3d44271ed3004769ed8efbfa2"
     },
     {
-      "label": "Session 2 · SRT",
+      "label": "Session 2 \u00b7 SRT",
       "filename": "Session 2 - Communication, Connection and Daily Capacity.srt",
       "format": "srt",
       "category": "Captions",
@@ -234,7 +234,7 @@
       "sha256": "4e7cbef751659ecc7fe3a23db2fb9921929d915e90c992cc7938296f9ab6318a"
     },
     {
-      "label": "Session 2 · VTT",
+      "label": "Session 2 \u00b7 VTT",
       "filename": "Session 2 - Communication, Connection and Daily Capacity.vtt",
       "format": "vtt",
       "category": "Captions",
@@ -244,7 +244,7 @@
       "sha256": "1e87e518c82e59f707ab3320ba11d84e3d419a43185dbff6289cb9503498319f"
     },
     {
-      "label": "Session 3 · Designing for Access Across Secondary School",
+      "label": "Session 3 \u00b7 Designing for Access Across Secondary School",
       "filename": "Session 3 - Designing for Access Across Secondary School.mp4",
       "format": "mp4",
       "category": "Videos",
@@ -254,7 +254,7 @@
       "sha256": "70b8bbff1487ef045f1c46d3254887a21fa69b33a15235bbccbb919a0727241e"
     },
     {
-      "label": "Session 3 · web playback",
+      "label": "Session 3 \u00b7 web playback",
       "filename": "session-3.mp4",
       "format": "mp4",
       "category": "Web playback",
@@ -264,7 +264,7 @@
       "sha256": "ad9236f1e1458e6579a2bc07bbedc76c43822f450b1607088a5c5e306535033a"
     },
     {
-      "label": "Session 3 · Designing for Access Across Secondary School · structured script",
+      "label": "Session 3 \u00b7 Designing for Access Across Secondary School \u00b7 structured script",
       "filename": "session-3.json",
       "format": "json",
       "category": "Scripts",
@@ -274,7 +274,7 @@
       "sha256": "95e00f5c37df49906a4b6eb97d2ecca478c8dc00177cd1ac9271f7a58e8bb9ae"
     },
     {
-      "label": "Session 3 · Designing for Access Across Secondary School · readable script",
+      "label": "Session 3 \u00b7 Designing for Access Across Secondary School \u00b7 readable script",
       "filename": "session-3.md",
       "format": "md",
       "category": "Scripts",
@@ -284,7 +284,7 @@
       "sha256": "f1e76d66c0199e4ed47d6afbe24b8456c1ab68c891784d4b3100fbfbac94f330"
     },
     {
-      "label": "Session 3 · SRT",
+      "label": "Session 3 \u00b7 SRT",
       "filename": "Session 3 - Designing for Access Across Secondary School.srt",
       "format": "srt",
       "category": "Captions",
@@ -294,7 +294,7 @@
       "sha256": "19ff925a5bd29638e636fda37e25bb70082d5ad775ff94742e112cb121a8b2c5"
     },
     {
-      "label": "Session 3 · VTT",
+      "label": "Session 3 \u00b7 VTT",
       "filename": "Session 3 - Designing for Access Across Secondary School.vtt",
       "format": "vtt",
       "category": "Captions",
@@ -304,27 +304,27 @@
       "sha256": "a7ee96c6410efa24246934798b40bdb28e1a69679a0ba5f03723bbd83cf2468b"
     },
     {
-      "label": "Session 4 · Working in Partnership with Students and Families",
+      "label": "Session 4 \u00b7 Working in Partnership with Students and Families",
       "filename": "Session 4 - Working in Partnership with Students and Families.mp4",
       "format": "mp4",
       "category": "Videos",
       "url": "https://github.com/CraigWrenasmir/phase-5-secondary-education-online/releases/download/workshop-v1/secondary-online--session-04.mp4",
       "storage": "release",
-      "bytes": 108973830,
-      "sha256": "a31fe269cdb6ba0ce98040f0b99efebaebddad7a3a702d40b73c62617905fa5d"
+      "bytes": 107037231,
+      "sha256": "7475b4d08814898af1b776ba308e522af9f565bccfe69c5f29843356285bb760"
     },
     {
-      "label": "Session 4 · web playback",
+      "label": "Session 4 \u00b7 web playback",
       "filename": "session-4.mp4",
       "format": "mp4",
       "category": "Web playback",
       "url": "media/session-4.mp4",
       "storage": "pages",
-      "bytes": 35488499,
-      "sha256": "8b3ddd7e21c8994879d28c0d2600ec82ec3733701446ab4d87698716c49005ae"
+      "bytes": 34973629,
+      "sha256": "221663ad0a492d8956a394893b143d2d0473e5c2282b24abe6442a54e12afaba"
     },
     {
-      "label": "Session 4 · Working in Partnership with Students and Families · structured script",
+      "label": "Session 4 \u00b7 Working in Partnership with Students and Families \u00b7 structured script",
       "filename": "session-4.json",
       "format": "json",
       "category": "Scripts",
@@ -334,7 +334,7 @@
       "sha256": "fa4bdda587087e0ca6b458528afeeb19772883118e3dddc3a7b27c1c952770c5"
     },
     {
-      "label": "Session 4 · Working in Partnership with Students and Families · readable script",
+      "label": "Session 4 \u00b7 Working in Partnership with Students and Families \u00b7 readable script",
       "filename": "session-4.md",
       "format": "md",
       "category": "Scripts",
@@ -344,7 +344,7 @@
       "sha256": "7d027ed3dab4206e897e643746a9f38bfa5ff8f0405b906c2986e668fdeb5c89"
     },
     {
-      "label": "Session 4 · SRT",
+      "label": "Session 4 \u00b7 SRT",
       "filename": "Session 4 - Working in Partnership with Students and Families.srt",
       "format": "srt",
       "category": "Captions",
@@ -354,7 +354,7 @@
       "sha256": "88141577a6ac0f454490b843573f467e4ba66a9166eba2cfae6e611c13894b6d"
     },
     {
-      "label": "Session 4 · VTT",
+      "label": "Session 4 \u00b7 VTT",
       "filename": "Session 4 - Working in Partnership with Students and Families.vtt",
       "format": "vtt",
       "category": "Captions",
@@ -370,11 +370,11 @@
       "category": "Videos",
       "url": "https://github.com/CraigWrenasmir/phase-5-secondary-education-online/releases/download/workshop-v1/secondary-online--full-workshop.mp4",
       "storage": "release",
-      "bytes": 575175947,
-      "sha256": "c5c967e0692bc21364b341051cd24203710d3ece12700bd9f24c1347cd1d688c"
+      "bytes": 573243300,
+      "sha256": "aeaac80c3ef77c49cf713d6e8b780fed8bc27dcb52474d1ae91a03eb07b87d1f"
     },
     {
-      "label": "Complete workshop · SRT",
+      "label": "Complete workshop \u00b7 SRT",
       "filename": "Full Workshop.srt",
       "format": "srt",
       "category": "Captions",
@@ -384,7 +384,7 @@
       "sha256": "06edb6223d5a75ea021022dbc321be7d33608422b4a69f65fec059ee920795fc"
     },
     {
-      "label": "Complete workshop · VTT",
+      "label": "Complete workshop \u00b7 VTT",
       "filename": "Full Workshop.vtt",
       "format": "vtt",
       "category": "Captions",
